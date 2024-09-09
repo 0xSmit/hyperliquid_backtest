@@ -180,5 +180,5 @@ function calculateInterest(position, closeTime, closedSize) {
 }
 
 // Run the backtest
-const coinToBacktest = 'ETH'; // Change this to the coin you want to backtest
+const coinToBacktest = 'ETH'; // You can change this to any coin you want to backtest
 backtest('./data/trades.csv', coinToBacktest);
