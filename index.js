@@ -19,6 +19,9 @@ let totalUserGrossProfit = 0;
 let totalUserNetProfit = 0;
 let totalInterestPaid = 0;
 
+// Running Notional
+let notionals = [];
+
 /**
  * Function to parse CSV and backtest the strategy
  * @param {string} filePath - Path to the CSV file
@@ -54,34 +57,53 @@ function backtest(filePath, coin) {
  * @param {string} coin - Coin to perform calculations for
  */
 function processTrades(trades, coin) {
+
+  let openTrades = 0;
+  let closeTrades = 0;
+  console.log(`Initial openTrades: ${openTrades} & closeTrades: ${closeTrades}`);
   trades.forEach((trade) => {
     if (trade.coin === coin) {
+      console.log("----------------------------");
+      console.log(`Processing trade: ${trade.dir} ${trade.sz} ${coin} at ${trade.px}`);
       if (trade.dir.includes('Open Long')) {
+        console.log("Trade Opened for ", trade.sz);
+        openTrades += trade.sz;
+        console.log("New Value of Open Trades: ", openTrades);
+        console.log("Pushing to Notional: ", openTrades - closeTrades);
+        notionals.push(openTrades - closeTrades);
         handleOpenLong(trade);
       } else if (trade.dir.includes('Close Long')) {
+        console.log("Trade Closed for ", trade.sz);
+        closeTrades += trade.sz;
+        console.log("New Value of Close Trades: ", closeTrades);
+        console.log("Pushing to Notional: ", openTrades - closeTrades);
+        notionals.push(openTrades - closeTrades);
         const { userGrossProfit, userNetProfit, interestPaid } = handleCloseLong(trade);
         totalUserGrossProfit += userGrossProfit;
         totalUserNetProfit += userNetProfit;
         totalInterestPaid += interestPaid;
       }
+      console.log("----------------------------");
     }
   });
+
+  console.log("Notionals: ", notionals);
 
   const initialBalance = 100000000; // 100 million USDC
   const finalBalance = poolBalanceUSDC;
   const overallProfit = finalBalance - initialBalance;
 
-  console.log(`\n`);
-  console.log(`Backtesting results for ${coin}:`);
-  console.log(`Initial Pool Balance: ${initialBalance.toFixed(2)} USDC`);
-  console.log(`Final Pool Balance: ${finalBalance.toFixed(2)} USDC`);
-  console.log(`Total Interest Earned by Pool: ${totalInterestPaid.toFixed(2)} USDC`);
-  console.log(`Total Loss Borne by Pool: ${totalLoss.toFixed(2)} USDC`);
-  console.log(`Overall Profit: ${overallProfit.toFixed(2)} USDC`);
-  console.log(`\n`);
-  console.log(`Total User Gross Profit: ${totalUserGrossProfit.toFixed(2)} USDC`);
-  console.log(`Total Interest paid by user: ${totalInterestPaid.toFixed(2)} USDC`);
-  console.log(`Total User Net Profit: ${totalUserNetProfit.toFixed(2)} USDC`);
+  // console.log(`\n`);
+  // console.log(`Backtesting results for ${coin}:`);
+  // console.log(`Initial Pool Balance: ${initialBalance.toFixed(2)} USDC`);
+  // console.log(`Final Pool Balance: ${finalBalance.toFixed(2)} USDC`);
+  // console.log(`Total Interest Earned by Pool: ${totalInterestPaid.toFixed(2)} USDC`);
+  // console.log(`Total Loss Borne by Pool: ${totalLoss.toFixed(2)} USDC`);
+  // console.log(`Overall Profit: ${overallProfit.toFixed(2)} USDC`);
+  // console.log(`\n`);
+  // console.log(`Total User Gross Profit: ${totalUserGrossProfit.toFixed(2)} USDC`);
+  // console.log(`Total Interest paid by user: ${totalInterestPaid.toFixed(2)} USDC`);
+  // console.log(`Total User Net Profit: ${totalUserNetProfit.toFixed(2)} USDC`);
 }
 
 /**
