@@ -1,0 +1,2605 @@
+Initial openTrades: 0 & closeTrades: 0
+--------------1--------------
+Processing trade: Open Long 12.5851 ETH at 3191.9
+Trade Opened for  12.5851
+New Value of Open Trades:  12.5851
+Pushing to Notional:  12.5851
+Opened Long: Bought 12.5851 ETH at 3191.9, Cost: 40170.380690000005 USDC
+----------------------------
+--------------2--------------
+Processing trade: Open Long 28.1765 ETH at 3282.79622913
+Trade Opened for  28.1765
+New Value of Open Trades:  40.7616
+Pushing to Notional:  40.7616
+Opened Long: Bought 28.1765 ETH at 3282.79622913, Cost: 92497.70795008144 USDC
+----------------------------
+--------------3--------------
+Processing trade: Close Long 20.3811 ETH at 3321.48570293
+Trade Closed for  20.3811
+New Value of Close Trades:  20.3811
+Pushing to Notional:  20.3805
+Closed Long: Sold 20.3811 ETH at 3321.48570293, Closing Value: 67695.53 USDC, Interest: 657.63 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 1932.47 USDC, User Net Profit: 1274.84 USDC
+----------------------------
+--------------4--------------
+Processing trade: Open Long 7.9139 ETH at 3341.7
+Trade Opened for  7.9139
+New Value of Open Trades:  48.6755
+Pushing to Notional:  28.2944
+Opened Long: Bought 7.9139 ETH at 3341.7, Cost: 26445.87963 USDC
+----------------------------
+--------------5--------------
+Processing trade: Open Long 7.4894 ETH at 3334.3
+Trade Opened for  7.4894
+New Value of Open Trades:  56.1649
+Pushing to Notional:  35.7838
+Opened Long: Bought 7.4894 ETH at 3334.3, Cost: 24971.90642 USDC
+----------------------------
+--------------6--------------
+Processing trade: Open Long 8.0582 ETH at 3362.9
+Trade Opened for  8.0582
+New Value of Open Trades:  64.2231
+Pushing to Notional:  43.842
+Opened Long: Bought 8.0582 ETH at 3362.9, Cost: 27098.92078 USDC
+----------------------------
+--------------7--------------
+Processing trade: Open Long 12.7784 ETH at 3354.1074579
+Trade Opened for  12.7784
+New Value of Open Trades:  77.00150000000001
+Pushing to Notional:  56.620400000000004
+Opened Long: Bought 12.7784 ETH at 3354.1074579, Cost: 42860.12674002936 USDC
+----------------------------
+--------------8--------------
+Processing trade: Open Long 8.6594 ETH at 3338.2
+Trade Opened for  8.6594
+New Value of Open Trades:  85.66090000000001
+Pushing to Notional:  65.27980000000001
+Opened Long: Bought 8.6594 ETH at 3338.2, Cost: 28906.80908 USDC
+----------------------------
+--------------9--------------
+Processing trade: Close Long 12.7784 ETH at 3328.59338102
+Trade Closed for  12.7784
+New Value of Close Trades:  33.1595
+Pushing to Notional:  52.50140000000001
+Closed Long: Sold 12.7784 ETH at 3328.59338102, Closing Value: 42534.10 USDC, Interest: 419.49 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 585.21 USDC, User Net Profit: 165.73 USDC
+----------------------------
+--------------10--------------
+Processing trade: Open Long 19.1043 ETH at 3370.6
+Trade Opened for  19.1043
+New Value of Open Trades:  104.76520000000001
+Pushing to Notional:  71.60570000000001
+Opened Long: Bought 19.1043 ETH at 3370.6, Cost: 64392.953579999994 USDC
+----------------------------
+--------------11--------------
+Processing trade: Close Long 19.1043 ETH at 3458.7
+Trade Closed for  19.1043
+New Value of Close Trades:  52.2638
+Pushing to Notional:  52.501400000000004
+Closed Long: Sold 19.1043 ETH at 3458.7, Closing Value: 66076.04 USDC, Interest: 633.66 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 2709.55 USDC, User Net Profit: 2075.88 USDC
+----------------------------
+--------------12--------------
+Processing trade: Open Long (Price Improved) 13.9258 ETH at 3428.5
+Trade Opened for  13.9258
+New Value of Open Trades:  118.691
+Pushing to Notional:  66.4272
+Opened Long: Bought 13.9258 ETH at 3428.5, Cost: 47744.6053 USDC
+----------------------------
+--------------13--------------
+Processing trade: Open Long 0.0036 ETH at 3428.5
+Trade Opened for  0.0036
+New Value of Open Trades:  118.69460000000001
+Pushing to Notional:  66.4308
+Opened Long: Bought 0.0036 ETH at 3428.5, Cost: 12.3426 USDC
+----------------------------
+--------------14--------------
+Processing trade: Open Long (Price Improved) 13.4337 ETH at 3428.5
+Trade Opened for  13.4337
+New Value of Open Trades:  132.1283
+Pushing to Notional:  79.86449999999999
+Opened Long: Bought 13.4337 ETH at 3428.5, Cost: 46057.44045 USDC
+----------------------------
+--------------15--------------
+Processing trade: Open Long 0.0272 ETH at 3428.5
+Trade Opened for  0.0272
+New Value of Open Trades:  132.1555
+Pushing to Notional:  79.89169999999999
+Opened Long: Bought 0.0272 ETH at 3428.5, Cost: 93.25519999999999 USDC
+----------------------------
+--------------16--------------
+Processing trade: Open Long 8.7501 ETH at 3428.5
+Trade Opened for  8.7501
+New Value of Open Trades:  140.9056
+Pushing to Notional:  88.64179999999999
+Opened Long: Bought 8.7501 ETH at 3428.5, Cost: 29999.71785 USDC
+----------------------------
+--------------17--------------
+Processing trade: Open Long 0.006 ETH at 3428.5
+Trade Opened for  0.006
+New Value of Open Trades:  140.9116
+Pushing to Notional:  88.64779999999999
+Opened Long: Bought 0.006 ETH at 3428.5, Cost: 20.571 USDC
+----------------------------
+--------------18--------------
+Processing trade: Open Long 0.48 ETH at 3428.5
+Trade Opened for  0.48
+New Value of Open Trades:  141.39159999999998
+Pushing to Notional:  89.12779999999998
+Opened Long: Bought 0.48 ETH at 3428.5, Cost: 1645.6799999999998 USDC
+----------------------------
+--------------19--------------
+Processing trade: Open Long 100 ETH at 3428.5
+Trade Opened for  100
+New Value of Open Trades:  241.39159999999998
+Pushing to Notional:  189.12779999999998
+Opened Long: Bought 100 ETH at 3428.5, Cost: 342850 USDC
+----------------------------
+--------------20--------------
+Processing trade: Open Long 0.3989 ETH at 3428.5
+Trade Opened for  0.3989
+New Value of Open Trades:  241.79049999999998
+Pushing to Notional:  189.52669999999998
+Opened Long: Bought 0.3989 ETH at 3428.5, Cost: 1367.6286499999999 USDC
+----------------------------
+--------------21--------------
+Processing trade: Open Long 28.3394 ETH at 3428.5
+Trade Opened for  28.3394
+New Value of Open Trades:  270.12989999999996
+Pushing to Notional:  217.86609999999996
+Opened Long: Bought 28.3394 ETH at 3428.5, Cost: 97161.63290000001 USDC
+----------------------------
+--------------22--------------
+Processing trade: Close Long 165.3647 ETH at 3369.83541354
+Trade Closed for  165.3647
+New Value of Close Trades:  217.6285
+Pushing to Notional:  52.50139999999996
+Closed Long: Sold 165.3647 ETH at 3369.83541354, Closing Value: 557251.82 USDC, Interest: 5762.26 USDC, Pool Loss: 5966.25 USDC, User Gross Profit: 669.44 USDC, User Net Profit: -5092.82 USDC
+----------------------------
+--------------23--------------
+Processing trade: Open Long 15.3376 ETH at 3364.7533695
+Trade Opened for  15.3376
+New Value of Open Trades:  285.4675
+Pushing to Notional:  67.83899999999997
+Opened Long: Bought 15.3376 ETH at 3364.7533695, Cost: 51607.24128004321 USDC
+----------------------------
+--------------24--------------
+Processing trade: Open Long 8.7689 ETH at 3364.8
+Trade Opened for  8.7689
+New Value of Open Trades:  294.23639999999995
+Pushing to Notional:  76.60789999999994
+Opened Long: Bought 8.7689 ETH at 3364.8, Cost: 29505.594720000005 USDC
+----------------------------
+--------------25--------------
+Processing trade: Open Long 7.0721 ETH at 3402.2
+Trade Opened for  7.0721
+New Value of Open Trades:  301.3084999999999
+Pushing to Notional:  83.67999999999992
+Opened Long: Bought 7.0721 ETH at 3402.2, Cost: 24060.69862 USDC
+----------------------------
+--------------26--------------
+Processing trade: Open Long 31.61 ETH at 3403.02123505
+Trade Opened for  31.61
+New Value of Open Trades:  332.91849999999994
+Pushing to Notional:  115.28999999999994
+Opened Long: Bought 31.61 ETH at 3403.02123505, Cost: 107569.5012399305 USDC
+----------------------------
+--------------27--------------
+Processing trade: Close Long 115.29 ETH at 3428.11887831
+Trade Closed for  115.29
+New Value of Close Trades:  332.9185
+Pushing to Notional:  -5.684341886080802e-14
+Closed Long: Sold 115.29 ETH at 3428.11887831, Closing Value: 395227.83 USDC, Interest: 9630.93 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 2503.75 USDC, User Net Profit: -7127.18 USDC
+----------------------------
+--------------28--------------
+Processing trade: Open Long 62.7286 ETH at 3433.00187458
+Trade Opened for  62.7286
+New Value of Open Trades:  395.6470999999999
+Pushing to Notional:  62.728599999999915
+Opened Long: Bought 62.7286 ETH at 3433.00187458, Cost: 215347.40138977897 USDC
+----------------------------
+--------------29--------------
+Processing trade: Close Long 62.7286 ETH at 3417.95876889
+Trade Closed for  62.7286
+New Value of Close Trades:  395.6471
+Pushing to Notional:  -1.1368683772161603e-13
+Closed Long: Sold 62.7286 ETH at 3417.95876889, Closing Value: 214403.77 USDC, Interest: 2153.47 USDC, Pool Loss: 943.63 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -2153.47 USDC
+----------------------------
+--------------30--------------
+Processing trade: Open Long 60 ETH at 3419.984684
+Trade Opened for  60
+New Value of Open Trades:  455.6470999999999
+Pushing to Notional:  59.999999999999886
+Opened Long: Bought 60 ETH at 3419.984684, Cost: 205199.08104 USDC
+----------------------------
+--------------31--------------
+Processing trade: Close Long 13.2372 ETH at 3426.2
+Trade Closed for  13.2372
+New Value of Close Trades:  408.8843
+Pushing to Notional:  46.76279999999991
+Closed Long: Sold 13.2372 ETH at 3426.2, Closing Value: 45353.29 USDC, Interest: 452.71 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 82.27 USDC, User Net Profit: -370.44 USDC
+----------------------------
+--------------32--------------
+Processing trade: Close Long 6.8146 ETH at 3426.2
+Trade Closed for  6.8146
+New Value of Close Trades:  415.6989
+Pushing to Notional:  39.94819999999993
+Closed Long: Sold 6.8146 ETH at 3426.2, Closing Value: 23348.18 USDC, Interest: 233.06 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 42.35 USDC, User Net Profit: -190.70 USDC
+----------------------------
+--------------33--------------
+Processing trade: Close Long 6.7566 ETH at 3426.2
+Trade Closed for  6.7566
+New Value of Close Trades:  422.4555
+Pushing to Notional:  33.19159999999994
+Closed Long: Sold 6.7566 ETH at 3426.2, Closing Value: 23149.46 USDC, Interest: 231.07 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 41.99 USDC, User Net Profit: -189.08 USDC
+----------------------------
+--------------34--------------
+Processing trade: Close Long 0.0349 ETH at 3426.2
+Trade Closed for  0.0349
+New Value of Close Trades:  422.49039999999997
+Pushing to Notional:  33.156699999999944
+Closed Long: Sold 0.0349 ETH at 3426.2, Closing Value: 119.57 USDC, Interest: 1.19 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 0.22 USDC, User Net Profit: -0.98 USDC
+----------------------------
+--------------35--------------
+Processing trade: Close Long 19.1036 ETH at 3426.2
+Trade Closed for  19.1036
+New Value of Close Trades:  441.59399999999994
+Pushing to Notional:  14.053099999999972
+Closed Long: Sold 19.1036 ETH at 3426.2, Closing Value: 65452.75 USDC, Interest: 653.34 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 118.73 USDC, User Net Profit: -534.61 USDC
+----------------------------
+--------------36--------------
+Processing trade: Close Long 14.0522 ETH at 3426.2
+Trade Closed for  14.0522
+New Value of Close Trades:  455.6461999999999
+Pushing to Notional:  0.0009000000000014552
+Closed Long: Sold 14.0522 ETH at 3426.2, Closing Value: 48145.65 USDC, Interest: 480.58 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 87.34 USDC, User Net Profit: -393.24 USDC
+----------------------------
+--------------37--------------
+Processing trade: Close Long 0.0009 ETH at 3426.3
+Trade Closed for  0.0009
+New Value of Close Trades:  455.6470999999999
+Pushing to Notional:  0
+Closed Long: Sold 0.0009 ETH at 3426.3, Closing Value: 3.08 USDC, Interest: 0.03 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 0.01 USDC, User Net Profit: -0.03 USDC
+----------------------------
+--------------38--------------
+Processing trade: Open Long 0.0286 ETH at 3490
+Trade Opened for  0.0286
+New Value of Open Trades:  455.6756999999999
+Pushing to Notional:  0.028599999999983083
+Opened Long: Bought 0.0286 ETH at 3490, Cost: 99.81400000000001 USDC
+----------------------------
+--------------39--------------
+Processing trade: Close Long 0.0286 ETH at 3484.5
+Trade Closed for  0.0286
+New Value of Close Trades:  455.6756999999999
+Pushing to Notional:  0
+Closed Long: Sold 0.0286 ETH at 3484.5, Closing Value: 99.66 USDC, Interest: 1.00 USDC, Pool Loss: 0.16 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -1.00 USDC
+----------------------------
+--------------40--------------
+Processing trade: Open Long 104.8171 ETH at 3526.23207139
+Trade Opened for  104.8171
+New Value of Open Trades:  560.4927999999999
+Pushing to Notional:  104.81709999999998
+Opened Long: Bought 104.8171 ETH at 3526.23207139, Cost: 369609.4196500927 USDC
+----------------------------
+--------------41--------------
+Processing trade: Open Long 4.5 ETH at 3483.9
+Trade Opened for  4.5
+New Value of Open Trades:  564.9927999999999
+Pushing to Notional:  109.31709999999998
+Opened Long: Bought 4.5 ETH at 3483.9, Cost: 15677.550000000001 USDC
+----------------------------
+--------------42--------------
+Processing trade: Open Long 4.5 ETH at 3471.2
+Trade Opened for  4.5
+New Value of Open Trades:  569.4927999999999
+Pushing to Notional:  113.81709999999998
+Opened Long: Bought 4.5 ETH at 3471.2, Cost: 15620.4 USDC
+----------------------------
+--------------43--------------
+Processing trade: Open Long 6.8083 ETH at 3455.4879265
+Trade Opened for  6.8083
+New Value of Open Trades:  576.3010999999999
+Pushing to Notional:  120.62540000000001
+Opened Long: Bought 6.8083 ETH at 3455.4879265, Cost: 23525.99844998995 USDC
+----------------------------
+--------------44--------------
+Processing trade: Open Long 40.6726 ETH at 3456.46282362
+Trade Opened for  40.6726
+New Value of Open Trades:  616.9736999999999
+Pushing to Notional:  161.298
+Opened Long: Bought 40.6726 ETH at 3456.46282362, Cost: 140583.3298399668 USDC
+----------------------------
+--------------45--------------
+Processing trade: Close Long 40.6726 ETH at 3491.1
+Trade Closed for  40.6726
+New Value of Close Trades:  496.3482999999999
+Pushing to Notional:  120.62540000000001
+Closed Long: Sold 40.6726 ETH at 3491.1, Closing Value: 141992.11 USDC, Interest: 4302.63 USDC, Pool Loss: 1428.91 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -4302.63 USDC
+----------------------------
+--------------46--------------
+Processing trade: Close Long 72.2417 ETH at 3448.73331192
+Trade Closed for  72.2417
+New Value of Close Trades:  568.5899999999999
+Pushing to Notional:  48.383699999999976
+Closed Long: Sold 72.2417 ETH at 3448.73331192, Closing Value: 249142.36 USDC, Interest: 7348.93 USDC, Pool Loss: 5210.19 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -7348.93 USDC
+----------------------------
+--------------47--------------
+Processing trade: Close Long 48.3836 ETH at 3448.2
+Trade Closed for  48.3836
+New Value of Close Trades:  616.9735999999999
+Pushing to Notional:  0.00009999999997489795
+Closed Long: Sold 48.3836 ETH at 3448.2, Closing Value: 166836.33 USDC, Interest: 1703.77 USDC, Pool Loss: 406.45 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -1703.77 USDC
+----------------------------
+--------------48--------------
+Processing trade: Close Long 0.0001 ETH at 3449.4
+Trade Closed for  0.0001
+New Value of Close Trades:  616.9736999999999
+Pushing to Notional:  0
+Closed Long: Sold 0.0001 ETH at 3449.4, Closing Value: 0.34 USDC, Interest: 0.00 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.00 USDC
+----------------------------
+--------------49--------------
+Processing trade: Open Short 65.6443 ETH at 3285.59091117
+----------------------------
+--------------50--------------
+Processing trade: Open Short 66.9533 ETH at 3223.07680428
+----------------------------
+--------------51--------------
+Processing trade: Close Short 132.5976 ETH at 3231.91538685
+----------------------------
+--------------52--------------
+Processing trade: Open Long 124.2818 ETH at 3215.71284838
+Trade Opened for  124.2818
+New Value of Open Trades:  741.2554999999999
+Pushing to Notional:  124.28179999999998
+Opened Long: Bought 124.2818 ETH at 3215.71284838, Cost: 399654.5810797935 USDC
+----------------------------
+--------------53--------------
+Processing trade: Open Long 4.5647 ETH at 3209.34885754
+Trade Opened for  4.5647
+New Value of Open Trades:  745.8201999999999
+Pushing to Notional:  128.8465
+Opened Long: Bought 4.5647 ETH at 3209.34885754, Cost: 14649.71473001284 USDC
+----------------------------
+--------------54--------------
+Processing trade: Close Long 227.253 ETH at 3163.79462269
+Trade Closed for  227.253
+New Value of Close Trades:  844.2266999999999
+Pushing to Notional:  -98.40650000000005
+Closed Long: Sold 227.253 ETH at 3163.79462269, Closing Value: 407643.86 USDC, Interest: 4143.04 USDC, Pool Loss: 6660.43 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -4143.04 USDC
+Warning: Attempted to close more ETH than available in open positions. Excess: 98.40649999999995 ETH
+----------------------------
+--------------55--------------
+Processing trade: Open Short 54.4405 ETH at 3173.29094296
+----------------------------
+--------------56--------------
+Processing trade: Close Short (Price Improved) 7.6423 ETH at 3123
+----------------------------
+--------------57--------------
+Processing trade: Open Short 33.5203 ETH at 3177.13928038
+----------------------------
+--------------58--------------
+Processing trade: Close Short 33.5203 ETH at 3170.38588527
+----------------------------
+--------------59--------------
+Processing trade: Open Short 26.6186 ETH at 3176.14161226
+----------------------------
+--------------60--------------
+Processing trade: Close Short 0.609 ETH at 3168.3
+----------------------------
+--------------61--------------
+Processing trade: Close Short 1.55 ETH at 3168.3
+----------------------------
+--------------62--------------
+Processing trade: Close Short 7.336 ETH at 3168.3
+----------------------------
+--------------63--------------
+Processing trade: Close Short 1.6027 ETH at 3168.3
+----------------------------
+--------------64--------------
+Processing trade: Close Short 11 ETH at 3168.3
+----------------------------
+--------------65--------------
+Processing trade: Close Short 3.6247 ETH at 3168.3
+----------------------------
+--------------66--------------
+Processing trade: Close Short 0.8962 ETH at 3168.3
+----------------------------
+--------------67--------------
+Processing trade: Close Short 5.8066 ETH at 3149.3
+----------------------------
+--------------68--------------
+Processing trade: Close Short 3.5236 ETH at 3149.5
+----------------------------
+--------------69--------------
+Processing trade: Close Short 19.8602 ETH at 3149.5
+----------------------------
+--------------70--------------
+Processing trade: Close Short 19.5256 ETH at 3149.5
+----------------------------
+--------------71--------------
+Processing trade: Close Short 1 ETH at 3149.5
+----------------------------
+--------------72--------------
+Processing trade: Close Short 19.5256 ETH at 3149.5
+----------------------------
+--------------73--------------
+Processing trade: Close Short 19.5256 ETH at 3149.5
+----------------------------
+--------------74--------------
+Processing trade: Close Short 1 ETH at 3149.5
+----------------------------
+--------------75--------------
+Processing trade: Close Short 6.397 ETH at 3149.5
+----------------------------
+--------------76--------------
+Processing trade: Close Short 6.397 ETH at 3149.5
+----------------------------
+--------------77--------------
+Processing trade: Close Short 1 ETH at 3149.5
+----------------------------
+--------------78--------------
+Processing trade: Close Short 0.0074 ETH at 3149.5
+----------------------------
+--------------79--------------
+Processing trade: Close Short 11.4302 ETH at 3149.5
+----------------------------
+--------------80--------------
+Processing trade: Close Short 1.0417 ETH at 3149.5
+----------------------------
+--------------81--------------
+Processing trade: Close Short 1.094 ETH at 3149.5
+----------------------------
+--------------82--------------
+Processing trade: Close Short 1 ETH at 3149.5
+----------------------------
+--------------83--------------
+Processing trade: Close Short 1.5878 ETH at 3149.5
+----------------------------
+--------------84--------------
+Processing trade: Close Short 1 ETH at 3149.5
+----------------------------
+--------------85--------------
+Processing trade: Close Short 0.6607 ETH at 3149.5
+----------------------------
+--------------86--------------
+Processing trade: Close Short 4.8341 ETH at 3149.5
+----------------------------
+--------------87--------------
+Processing trade: Close Short 2.0541 ETH at 3149.5
+----------------------------
+--------------88--------------
+Processing trade: Close Short 3.7924 ETH at 3149.5
+----------------------------
+--------------89--------------
+Processing trade: Close Short 1.315 ETH at 3149.5
+----------------------------
+--------------90--------------
+Processing trade: Close Short 1.0417 ETH at 3149.5
+----------------------------
+--------------91--------------
+Processing trade: Close Short 10.7844 ETH at 3149.5
+----------------------------
+--------------92--------------
+Processing trade: Open Short 33.9319 ETH at 3152.30877404
+----------------------------
+--------------93--------------
+Processing trade: Open Short 32.1339 ETH at 3168.88492651
+----------------------------
+--------------94--------------
+Processing trade: Close Short 6.6065 ETH at 3115
+----------------------------
+--------------95--------------
+Processing trade: Close Short 6.6065 ETH at 3109.4
+----------------------------
+--------------96--------------
+Processing trade: Close Short 6.6065 ETH at 3103.9
+----------------------------
+--------------97--------------
+Processing trade: Close Short 6.6065 ETH at 3098.3
+----------------------------
+--------------98--------------
+Processing trade: Close Short 1.6508 ETH at 3092.8
+----------------------------
+--------------99--------------
+Processing trade: Close Short 2.61 ETH at 3092.8
+----------------------------
+--------------100--------------
+Processing trade: Close Short 2.3457 ETH at 3092.8
+----------------------------
+--------------101--------------
+Processing trade: Close Short 6.6065 ETH at 3087.2
+----------------------------
+--------------102--------------
+Processing trade: Close Short 10.4768 ETH at 3105.4
+----------------------------
+--------------103--------------
+Processing trade: Close Short 10.4809 ETH at 3105.4
+----------------------------
+--------------104--------------
+Processing trade: Close Short 5.4691 ETH at 3105.4
+----------------------------
+--------------105--------------
+Processing trade: Open Short 31.4949 ETH at 3171.10664012
+----------------------------
+--------------106--------------
+Processing trade: Open Short 1.6215 ETH at 3171.1
+----------------------------
+--------------107--------------
+Processing trade: Open Short 1.6216 ETH at 3171.1
+----------------------------
+--------------108--------------
+Processing trade: Open Short 0.0036 ETH at 3171.1
+----------------------------
+--------------109--------------
+Processing trade: Open Short 0.09 ETH at 3171.1
+----------------------------
+--------------110--------------
+Processing trade: Open Short 0.859 ETH at 3171.1
+----------------------------
+--------------111--------------
+Processing trade: Open Short 1.5707 ETH at 3171.1
+----------------------------
+--------------112--------------
+Processing trade: Open Short 1.1097 ETH at 3171.1
+----------------------------
+--------------113--------------
+Processing trade: Open Short 1.1155 ETH at 3171.1
+----------------------------
+--------------114--------------
+Processing trade: Open Short 0.0946 ETH at 3171.1
+----------------------------
+--------------115--------------
+Processing trade: Open Short 2.1838 ETH at 3171.1
+----------------------------
+--------------116--------------
+Processing trade: Open Short 2.158 ETH at 3171.1
+----------------------------
+--------------117--------------
+Processing trade: Open Short 0.862 ETH at 3171.1
+----------------------------
+--------------118--------------
+Processing trade: Open Short 0.8569 ETH at 3171.1
+----------------------------
+--------------119--------------
+Processing trade: Open Short 0.8447 ETH at 3171.1
+----------------------------
+--------------120--------------
+Processing trade: Open Short 0.8464 ETH at 3171.1
+----------------------------
+--------------121--------------
+Processing trade: Open Short 15.0102 ETH at 3171.1
+----------------------------
+--------------122--------------
+Processing trade: Open Short 15.0108 ETH at 3171.1
+----------------------------
+--------------123--------------
+Processing trade: Open Short 0.8926 ETH at 3171.1
+----------------------------
+--------------124--------------
+Processing trade: Open Short 0.8371 ETH at 3171.1
+----------------------------
+--------------125--------------
+Processing trade: Open Short 1.2557 ETH at 3171.1
+----------------------------
+--------------126--------------
+Processing trade: Open Short 1.1498 ETH at 3171.1
+----------------------------
+--------------127--------------
+Processing trade: Open Short 1.122 ETH at 3171.1
+----------------------------
+--------------128--------------
+Processing trade: Open Short 1.0781 ETH at 3171.1
+----------------------------
+--------------129--------------
+Processing trade: Open Short 1.1248 ETH at 3171.1
+----------------------------
+--------------130--------------
+Processing trade: Open Short 0.1991 ETH at 3171.1
+----------------------------
+--------------131--------------
+Processing trade: Open Short 1.0922 ETH at 3171.1
+----------------------------
+--------------132--------------
+Processing trade: Open Short 1.0239 ETH at 3171.1
+----------------------------
+--------------133--------------
+Processing trade: Open Short 1.0027 ETH at 3171.1
+----------------------------
+--------------134--------------
+Processing trade: Open Short 1.0083 ETH at 3171.1
+----------------------------
+--------------135--------------
+Processing trade: Open Short 1.0201 ETH at 3171.1
+----------------------------
+--------------136--------------
+Processing trade: Open Short 4.7905 ETH at 3171.1
+----------------------------
+--------------137--------------
+Processing trade: Open Short 10.2095 ETH at 3187.9
+----------------------------
+--------------138--------------
+Processing trade: Open Short 10.1978 ETH at 3191.3
+----------------------------
+--------------139--------------
+Processing trade: Open Short 20.2887 ETH at 3192.00352068
+----------------------------
+--------------140--------------
+Processing trade: Close Short 94.9508 ETH at 3203.64923655
+----------------------------
+--------------141--------------
+Processing trade: Close Short 0.3279 ETH at 3203.5
+----------------------------
+--------------142--------------
+Processing trade: Close Short 40.3681 ETH at 3207.73396915
+----------------------------
+--------------143--------------
+Processing trade: Open Short 48.025 ETH at 3229.50409328
+----------------------------
+--------------144--------------
+Processing trade: Open Short 11.711 ETH at 3243.9
+----------------------------
+--------------145--------------
+Processing trade: Open Short 6.2 ETH at 3254.14477097
+----------------------------
+--------------146--------------
+Processing trade: Open Short 26.9051 ETH at 3251.19718529
+----------------------------
+--------------147--------------
+Processing trade: Close Short 0.1037 ETH at 3249.3
+----------------------------
+--------------148--------------
+Processing trade: Close Short 0.8971 ETH at 3249.3
+----------------------------
+--------------149--------------
+Processing trade: Close Short 1.811 ETH at 3249.3
+----------------------------
+--------------150--------------
+Processing trade: Close Short 9.2774 ETH at 3249.3
+----------------------------
+--------------151--------------
+Processing trade: Close Short 3.8563 ETH at 3249.3
+----------------------------
+--------------152--------------
+Processing trade: Close Short 3.108 ETH at 3249.3
+----------------------------
+--------------153--------------
+Processing trade: Close Short 3.3463 ETH at 3249.3
+----------------------------
+--------------154--------------
+Processing trade: Close Short 6.8241 ETH at 3249.3
+----------------------------
+--------------155--------------
+Processing trade: Close Short 6.8871 ETH at 3249.3
+----------------------------
+--------------156--------------
+Processing trade: Close Short 1.4425 ETH at 3249.3
+----------------------------
+--------------157--------------
+Processing trade: Close Short 1.5096 ETH at 3249.3
+----------------------------
+--------------158--------------
+Processing trade: Close Short 1.5992 ETH at 3249.3
+----------------------------
+--------------159--------------
+Processing trade: Close Short 2.7477 ETH at 3249.3
+----------------------------
+--------------160--------------
+Processing trade: Close Short 1.3662 ETH at 3249.3
+----------------------------
+--------------161--------------
+Processing trade: Close Short 1.3822 ETH at 3249.3
+----------------------------
+--------------162--------------
+Processing trade: Close Short 1.3693 ETH at 3249.3
+----------------------------
+--------------163--------------
+Processing trade: Close Short 9.2608 ETH at 3249.3
+----------------------------
+--------------164--------------
+Processing trade: Close Short 6.84 ETH at 3249.3
+----------------------------
+--------------165--------------
+Processing trade: Close Short 1.1992 ETH at 3249.3
+----------------------------
+--------------166--------------
+Processing trade: Close Short 1.0417 ETH at 3249.3
+----------------------------
+--------------167--------------
+Processing trade: Close Short 1.0222 ETH at 3249.3
+----------------------------
+--------------168--------------
+Processing trade: Close Short 0.9936 ETH at 3249.3
+----------------------------
+--------------169--------------
+Processing trade: Close Short 1.0077 ETH at 3249.3
+----------------------------
+--------------170--------------
+Processing trade: Close Short 0.9175 ETH at 3249.3
+----------------------------
+--------------171--------------
+Processing trade: Close Short 0.3791 ETH at 3249.3
+----------------------------
+--------------172--------------
+Processing trade: Close Short 0.8922 ETH at 3249.3
+----------------------------
+--------------173--------------
+Processing trade: Close Short 0.8763 ETH at 3249.3
+----------------------------
+--------------174--------------
+Processing trade: Close Short 0.9004 ETH at 3249.3
+----------------------------
+--------------175--------------
+Processing trade: Close Short 0.9397 ETH at 3249.3
+----------------------------
+--------------176--------------
+Processing trade: Close Short 7.7541 ETH at 3249.3
+----------------------------
+--------------177--------------
+Processing trade: Close Short 0.9037 ETH at 3249.3
+----------------------------
+--------------178--------------
+Processing trade: Close Short 0.007 ETH at 3249.3
+----------------------------
+--------------179--------------
+Processing trade: Close Short 5 ETH at 3249.3
+----------------------------
+--------------180--------------
+Processing trade: Close Short 0.2004 ETH at 3249.3
+----------------------------
+--------------181--------------
+Processing trade: Close Short 0.1499 ETH at 3249.3
+----------------------------
+--------------182--------------
+Processing trade: Close Short 0.2499 ETH at 3249.3
+----------------------------
+--------------183--------------
+Processing trade: Close Short 0.6155 ETH at 3249.3
+----------------------------
+--------------184--------------
+Processing trade: Close Short 1.231 ETH at 3249.3
+----------------------------
+--------------185--------------
+Processing trade: Close Short 0.0062 ETH at 3249.3
+----------------------------
+--------------186--------------
+Processing trade: Close Short 0.0647 ETH at 3249.3
+----------------------------
+--------------187--------------
+Processing trade: Close Short 0.6155 ETH at 3249.3
+----------------------------
+--------------188--------------
+Processing trade: Close Short 0.0004 ETH at 3249.3
+----------------------------
+--------------189--------------
+Processing trade: Close Short 0.0058 ETH at 3249.3
+----------------------------
+--------------190--------------
+Processing trade: Close Short 0.1044 ETH at 3249.3
+----------------------------
+--------------191--------------
+Processing trade: Close Short 0.0591 ETH at 3249.3
+----------------------------
+--------------192--------------
+Processing trade: Close Short 1.231 ETH at 3249.3
+----------------------------
+--------------193--------------
+Processing trade: Close Short 0.0601 ETH at 3249.3
+----------------------------
+--------------194--------------
+Processing trade: Close Short 0.6155 ETH at 3249.3
+----------------------------
+--------------195--------------
+Processing trade: Close Short 0.1688 ETH at 3249.3
+----------------------------
+--------------196--------------
+Processing trade: Open Long 84.9782 ETH at 3256.02473152
+Trade Opened for  84.9782
+New Value of Open Trades:  830.7983999999999
+Pushing to Notional:  -13.428300000000036
+Opened Long: Bought 84.9782 ETH at 3256.02473152, Cost: 276691.12084005284 USDC
+----------------------------
+--------------197--------------
+Processing trade: Close Long 2.3073 ETH at 3253.7
+Trade Closed for  2.3073
+New Value of Close Trades:  846.534
+Pushing to Notional:  -15.73560000000009
+Closed Long: Sold 2.3073 ETH at 3253.7, Closing Value: 7507.26 USDC, Interest: 75.13 USDC, Pool Loss: 5.36 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -75.13 USDC
+----------------------------
+--------------198--------------
+Processing trade: Close Long 0.0035 ETH at 3253.7
+Trade Closed for  0.0035
+New Value of Close Trades:  846.5375
+Pushing to Notional:  -15.739100000000121
+Closed Long: Sold 0.0035 ETH at 3253.7, Closing Value: 11.39 USDC, Interest: 0.11 USDC, Pool Loss: 0.01 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.11 USDC
+----------------------------
+--------------199--------------
+Processing trade: Close Long 0.0146 ETH at 3253.7
+Trade Closed for  0.0146
+New Value of Close Trades:  846.5521
+Pushing to Notional:  -15.753700000000094
+Closed Long: Sold 0.0146 ETH at 3253.7, Closing Value: 47.50 USDC, Interest: 0.48 USDC, Pool Loss: 0.03 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.48 USDC
+----------------------------
+--------------200--------------
+Processing trade: Close Long 0.0035 ETH at 3253.7
+Trade Closed for  0.0035
+New Value of Close Trades:  846.5556
+Pushing to Notional:  -15.757200000000125
+Closed Long: Sold 0.0035 ETH at 3253.7, Closing Value: 11.39 USDC, Interest: 0.11 USDC, Pool Loss: 0.01 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.11 USDC
+----------------------------
+--------------201--------------
+Processing trade: Close Long 0.0272 ETH at 3253.7
+Trade Closed for  0.0272
+New Value of Close Trades:  846.5828
+Pushing to Notional:  -15.784400000000119
+Closed Long: Sold 0.0272 ETH at 3253.7, Closing Value: 88.50 USDC, Interest: 0.89 USDC, Pool Loss: 0.06 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.89 USDC
+----------------------------
+--------------202--------------
+Processing trade: Close Long 0.0035 ETH at 3253.7
+Trade Closed for  0.0035
+New Value of Close Trades:  846.5863
+Pushing to Notional:  -15.78790000000015
+Closed Long: Sold 0.0035 ETH at 3253.7, Closing Value: 11.39 USDC, Interest: 0.11 USDC, Pool Loss: 0.01 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.11 USDC
+----------------------------
+--------------203--------------
+Processing trade: Close Long 0.0035 ETH at 3253.7
+Trade Closed for  0.0035
+New Value of Close Trades:  846.5898000000001
+Pushing to Notional:  -15.79140000000018
+Closed Long: Sold 0.0035 ETH at 3253.7, Closing Value: 11.39 USDC, Interest: 0.11 USDC, Pool Loss: 0.01 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.11 USDC
+----------------------------
+--------------204--------------
+Processing trade: Close Long 3.4309 ETH at 3253.7
+Trade Closed for  3.4309
+New Value of Close Trades:  850.0207
+Pushing to Notional:  -19.222300000000132
+Closed Long: Sold 3.4309 ETH at 3253.7, Closing Value: 11163.12 USDC, Interest: 111.71 USDC, Pool Loss: 7.98 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -111.71 USDC
+----------------------------
+--------------205--------------
+Processing trade: Close Long 0.0344 ETH at 3253.7
+Trade Closed for  0.0344
+New Value of Close Trades:  850.0551
+Pushing to Notional:  -19.256700000000137
+Closed Long: Sold 0.0344 ETH at 3253.7, Closing Value: 111.93 USDC, Interest: 1.12 USDC, Pool Loss: 0.08 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -1.12 USDC
+----------------------------
+--------------206--------------
+Processing trade: Close Long 0.0035 ETH at 3253.7
+Trade Closed for  0.0035
+New Value of Close Trades:  850.0586000000001
+Pushing to Notional:  -19.260200000000168
+Closed Long: Sold 0.0035 ETH at 3253.7, Closing Value: 11.39 USDC, Interest: 0.11 USDC, Pool Loss: 0.01 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.11 USDC
+----------------------------
+--------------207--------------
+Processing trade: Close Long 2.883 ETH at 3248
+Trade Closed for  2.883
+New Value of Close Trades:  852.9416000000001
+Pushing to Notional:  -22.143200000000206
+Closed Long: Sold 2.883 ETH at 3248, Closing Value: 9363.98 USDC, Interest: 93.87 USDC, Pool Loss: 23.14 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -93.87 USDC
+----------------------------
+--------------208--------------
+Processing trade: Close Long 16.2393 ETH at 3247.4
+Trade Closed for  16.2393
+New Value of Close Trades:  869.1809000000001
+Pushing to Notional:  -38.382500000000164
+Closed Long: Sold 16.2393 ETH at 3247.4, Closing Value: 52735.50 USDC, Interest: 528.76 USDC, Pool Loss: 140.06 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -528.76 USDC
+----------------------------
+--------------209--------------
+Processing trade: Close Long 9.5 ETH at 3246.7
+Trade Closed for  9.5
+New Value of Close Trades:  878.6809000000001
+Pushing to Notional:  -47.882500000000164
+Closed Long: Sold 9.5 ETH at 3246.7, Closing Value: 30843.65 USDC, Interest: 309.32 USDC, Pool Loss: 88.58 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -309.32 USDC
+----------------------------
+--------------210--------------
+Processing trade: Close Long 0.0035 ETH at 3246.5
+Trade Closed for  0.0035
+New Value of Close Trades:  878.6844000000001
+Pushing to Notional:  -47.886000000000195
+Closed Long: Sold 0.0035 ETH at 3246.5, Closing Value: 11.36 USDC, Interest: 0.11 USDC, Pool Loss: 0.03 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.11 USDC
+----------------------------
+--------------211--------------
+Processing trade: Close Long 0.0012 ETH at 3245.2
+Trade Closed for  0.0012
+New Value of Close Trades:  878.6856000000001
+Pushing to Notional:  -47.887200000000234
+Closed Long: Sold 0.0012 ETH at 3245.2, Closing Value: 3.89 USDC, Interest: 0.04 USDC, Pool Loss: 0.01 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.04 USDC
+----------------------------
+--------------212--------------
+Processing trade: Close Long 12.9745 ETH at 3245.2
+Trade Closed for  12.9745
+New Value of Close Trades:  891.6601000000002
+Pushing to Notional:  -60.86170000000027
+Closed Long: Sold 12.9745 ETH at 3245.2, Closing Value: 42104.85 USDC, Interest: 422.45 USDC, Pool Loss: 140.45 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -422.45 USDC
+----------------------------
+--------------213--------------
+Processing trade: Close Long 21.3836 ETH at 3245.2
+Trade Closed for  21.3836
+New Value of Close Trades:  913.0437000000002
+Pushing to Notional:  -82.24530000000027
+Closed Long: Sold 21.3836 ETH at 3245.2, Closing Value: 69394.06 USDC, Interest: 696.26 USDC, Pool Loss: 231.47 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -696.26 USDC
+----------------------------
+--------------214--------------
+Processing trade: Close Long 16.1612 ETH at 3245.2
+Trade Closed for  16.1612
+New Value of Close Trades:  929.2049000000002
+Pushing to Notional:  -98.40650000000028
+Closed Long: Sold 16.1612 ETH at 3245.2, Closing Value: 52446.33 USDC, Interest: 526.21 USDC, Pool Loss: 174.94 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -526.21 USDC
+----------------------------
+--------------215--------------
+Processing trade: Open Long 151.3317 ETH at 3284.07420507
+Trade Opened for  151.3317
+New Value of Open Trades:  982.1300999999999
+Pushing to Notional:  52.92519999999968
+Opened Long: Bought 151.3317 ETH at 3284.07420507, Cost: 496984.5323793918 USDC
+----------------------------
+--------------216--------------
+Processing trade: Close Long 151.3317 ETH at 3289.3749979
+Trade Closed for  151.3317
+New Value of Close Trades:  1080.5366000000001
+Pushing to Notional:  -98.40650000000028
+Closed Long: Sold 151.3317 ETH at 3289.3749979, Closing Value: 497786.71 USDC, Interest: 4969.85 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 802.18 USDC, User Net Profit: -4167.67 USDC
+----------------------------
+--------------217--------------
+Processing trade: Open Long 207.8471 ETH at 3267.62119471
+Trade Opened for  207.8471
+New Value of Open Trades:  1189.9771999999998
+Pushing to Notional:  109.44059999999968
+Opened Long: Bought 207.8471 ETH at 3267.62119471, Cost: 679165.5892190089 USDC
+----------------------------
+--------------218--------------
+Processing trade: Close Long 0.0191 ETH at 3258.6
+Trade Closed for  0.0191
+New Value of Close Trades:  1080.5557000000001
+Pushing to Notional:  109.4214999999997
+Closed Long: Sold 0.0191 ETH at 3258.6, Closing Value: 62.24 USDC, Interest: 0.62 USDC, Pool Loss: 0.17 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.62 USDC
+----------------------------
+--------------219--------------
+Processing trade: Close Long 50.9693 ETH at 3258.6
+Trade Closed for  50.9693
+New Value of Close Trades:  1131.525
+Pushing to Notional:  58.45219999999972
+Closed Long: Sold 50.9693 ETH at 3258.6, Closing Value: 166088.56 USDC, Interest: 1665.48 USDC, Pool Loss: 459.80 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -1665.48 USDC
+----------------------------
+--------------220--------------
+Processing trade: Close Long 31.1331 ETH at 3258.6
+Trade Closed for  31.1331
+New Value of Close Trades:  1162.6581
+Pushing to Notional:  27.319099999999708
+Closed Long: Sold 31.1331 ETH at 3258.6, Closing Value: 101450.32 USDC, Interest: 1017.31 USDC, Pool Loss: 280.86 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -1017.31 USDC
+----------------------------
+--------------221--------------
+Processing trade: Close Long 11.9257 ETH at 3258.6
+Trade Closed for  11.9257
+New Value of Close Trades:  1174.5838
+Pushing to Notional:  15.393399999999701
+Closed Long: Sold 11.9257 ETH at 3258.6, Closing Value: 38861.09 USDC, Interest: 389.69 USDC, Pool Loss: 107.58 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -389.69 USDC
+----------------------------
+--------------222--------------
+Processing trade: Close Long 3.418 ETH at 3258.6
+Trade Closed for  3.418
+New Value of Close Trades:  1178.0018
+Pushing to Notional:  11.975399999999809
+Closed Long: Sold 3.418 ETH at 3258.6, Closing Value: 11137.89 USDC, Interest: 111.69 USDC, Pool Loss: 30.83 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -111.69 USDC
+----------------------------
+--------------223--------------
+Processing trade: Close Long 30.6686 ETH at 3258.6
+Trade Closed for  30.6686
+New Value of Close Trades:  1208.6704
+Pushing to Notional:  -18.69320000000016
+Closed Long: Sold 30.6686 ETH at 3258.6, Closing Value: 99936.70 USDC, Interest: 1002.13 USDC, Pool Loss: 276.67 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -1002.13 USDC
+----------------------------
+--------------224--------------
+Processing trade: Close Long 76.9728 ETH at 3258.6
+Trade Closed for  76.9728
+New Value of Close Trades:  1285.6432
+Pushing to Notional:  -95.66600000000017
+Closed Long: Sold 76.9728 ETH at 3258.6, Closing Value: 250823.57 USDC, Interest: 2515.18 USDC, Pool Loss: 694.39 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -2515.18 USDC
+----------------------------
+--------------225--------------
+Processing trade: Close Long 2.7405 ETH at 3258.6
+Trade Closed for  2.7405
+New Value of Close Trades:  1288.3837
+Pushing to Notional:  -98.40650000000028
+Closed Long: Sold 2.7405 ETH at 3258.6, Closing Value: 8930.19 USDC, Interest: 89.55 USDC, Pool Loss: 24.72 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -89.55 USDC
+Warning: Attempted to close more ETH than available in open positions. Excess: 1.687538997430238e-14 ETH
+----------------------------
+--------------226--------------
+Processing trade: Open Long 304.0134 ETH at 3314.91830396
+Trade Opened for  304.0134
+New Value of Open Trades:  1493.9905999999999
+Pushing to Notional:  205.60689999999977
+Opened Long: Bought 304.0134 ETH at 3314.91830396, Cost: 1007779.584309113 USDC
+----------------------------
+--------------227--------------
+Processing trade: Close Long 0.5742 ETH at 3319.9
+Trade Closed for  0.5742
+New Value of Close Trades:  1288.9579
+Pushing to Notional:  205.03269999999975
+Closed Long: Sold 0.5742 ETH at 3319.9, Closing Value: 1906.29 USDC, Interest: 19.03 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 2.86 USDC, User Net Profit: -16.17 USDC
+----------------------------
+--------------228--------------
+Processing trade: Close Long 0.1177 ETH at 3319.9
+Trade Closed for  0.1177
+New Value of Close Trades:  1289.0756000000001
+Pushing to Notional:  204.91499999999974
+Closed Long: Sold 0.1177 ETH at 3319.9, Closing Value: 390.75 USDC, Interest: 3.90 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 0.59 USDC, User Net Profit: -3.32 USDC
+----------------------------
+--------------229--------------
+Processing trade: Close Long 7.5342 ETH at 3319.9
+Trade Closed for  7.5342
+New Value of Close Trades:  1296.6098000000002
+Pushing to Notional:  197.38079999999968
+Closed Long: Sold 7.5342 ETH at 3319.9, Closing Value: 25012.79 USDC, Interest: 249.75 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 37.53 USDC, User Net Profit: -212.22 USDC
+----------------------------
+--------------230--------------
+Processing trade: Close Long 8.1454 ETH at 3319.9
+Trade Closed for  8.1454
+New Value of Close Trades:  1304.7552000000003
+Pushing to Notional:  189.23539999999957
+Closed Long: Sold 8.1454 ETH at 3319.9, Closing Value: 27041.91 USDC, Interest: 270.01 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 40.58 USDC, User Net Profit: -229.44 USDC
+----------------------------
+--------------231--------------
+Processing trade: Close Long 9.1484 ETH at 3319.9
+Trade Closed for  9.1484
+New Value of Close Trades:  1313.9036000000003
+Pushing to Notional:  180.08699999999953
+Closed Long: Sold 9.1484 ETH at 3319.9, Closing Value: 30371.77 USDC, Interest: 303.26 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 45.57 USDC, User Net Profit: -257.69 USDC
+----------------------------
+--------------232--------------
+Processing trade: Close Long 6.0422 ETH at 3319.9
+Trade Closed for  6.0422
+New Value of Close Trades:  1319.9458000000004
+Pushing to Notional:  174.04479999999944
+Closed Long: Sold 6.0422 ETH at 3319.9, Closing Value: 20059.50 USDC, Interest: 200.29 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 30.10 USDC, User Net Profit: -170.19 USDC
+----------------------------
+--------------233--------------
+Processing trade: Close Long 2.7363 ETH at 3319.9
+Trade Closed for  2.7363
+New Value of Close Trades:  1322.6821000000004
+Pushing to Notional:  171.3084999999994
+Closed Long: Sold 2.7363 ETH at 3319.9, Closing Value: 9084.24 USDC, Interest: 90.71 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 13.63 USDC, User Net Profit: -77.07 USDC
+----------------------------
+--------------234--------------
+Processing trade: Close Long 12.3828 ETH at 3319.9
+Trade Closed for  12.3828
+New Value of Close Trades:  1335.0649000000005
+Pushing to Notional:  158.92569999999932
+Closed Long: Sold 12.3828 ETH at 3319.9, Closing Value: 41109.66 USDC, Interest: 410.48 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 61.69 USDC, User Net Profit: -348.79 USDC
+----------------------------
+--------------235--------------
+Processing trade: Close Long 5.9678 ETH at 3319.9
+Trade Closed for  5.9678
+New Value of Close Trades:  1341.0327000000004
+Pushing to Notional:  152.95789999999943
+Closed Long: Sold 5.9678 ETH at 3319.9, Closing Value: 19812.50 USDC, Interest: 197.83 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 29.73 USDC, User Net Profit: -168.10 USDC
+----------------------------
+--------------236--------------
+Processing trade: Close Long 6.304 ETH at 3319.9
+Trade Closed for  6.304
+New Value of Close Trades:  1347.3367000000005
+Pushing to Notional:  146.65389999999934
+Closed Long: Sold 6.304 ETH at 3319.9, Closing Value: 20928.65 USDC, Interest: 208.97 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 31.40 USDC, User Net Profit: -177.57 USDC
+----------------------------
+--------------237--------------
+Processing trade: Close Long 8.6292 ETH at 3319.9
+Trade Closed for  8.6292
+New Value of Close Trades:  1355.9659000000006
+Pushing to Notional:  138.02469999999926
+Closed Long: Sold 8.6292 ETH at 3319.9, Closing Value: 28648.08 USDC, Interest: 286.05 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 42.99 USDC, User Net Profit: -243.06 USDC
+----------------------------
+--------------238--------------
+Processing trade: Close Long 1.5064 ETH at 3319.9
+Trade Closed for  1.5064
+New Value of Close Trades:  1357.4723000000006
+Pushing to Notional:  136.51829999999927
+Closed Long: Sold 1.5064 ETH at 3319.9, Closing Value: 5001.10 USDC, Interest: 49.94 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 7.50 USDC, User Net Profit: -42.43 USDC
+----------------------------
+--------------239--------------
+Processing trade: Close Long 1.8723 ETH at 3319.9
+Trade Closed for  1.8723
+New Value of Close Trades:  1359.3446000000006
+Pushing to Notional:  134.64599999999928
+Closed Long: Sold 1.8723 ETH at 3319.9, Closing Value: 6215.85 USDC, Interest: 62.07 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 9.33 USDC, User Net Profit: -52.74 USDC
+----------------------------
+--------------240--------------
+Processing trade: Close Long 0.0054 ETH at 3319.9
+Trade Closed for  0.0054
+New Value of Close Trades:  1359.3500000000006
+Pushing to Notional:  134.64059999999927
+Closed Long: Sold 0.0054 ETH at 3319.9, Closing Value: 17.93 USDC, Interest: 0.18 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 0.03 USDC, User Net Profit: -0.15 USDC
+----------------------------
+--------------241--------------
+Processing trade: Close Long 34.3456 ETH at 3347.7
+Trade Closed for  34.3456
+New Value of Close Trades:  1393.6956000000007
+Pushing to Notional:  100.29499999999916
+Closed Long: Sold 34.3456 ETH at 3347.7, Closing Value: 114978.77 USDC, Interest: 1138.53 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 1125.91 USDC, User Net Profit: -12.62 USDC
+----------------------------
+--------------242--------------
+Processing trade: Close Long 34.3039 ETH at 3347.7
+Trade Closed for  34.3039
+New Value of Close Trades:  1427.9995000000008
+Pushing to Notional:  65.99109999999905
+Closed Long: Sold 34.3039 ETH at 3347.7, Closing Value: 114839.17 USDC, Interest: 1137.15 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 1124.54 USDC, User Net Profit: -12.61 USDC
+----------------------------
+--------------243--------------
+Processing trade: Close Long 1.3585 ETH at 3347.7
+Trade Closed for  1.3585
+New Value of Close Trades:  1429.3580000000009
+Pushing to Notional:  64.632599999999
+Closed Long: Sold 1.3585 ETH at 3347.7, Closing Value: 4547.85 USDC, Interest: 45.03 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 44.53 USDC, User Net Profit: -0.50 USDC
+----------------------------
+--------------244--------------
+Processing trade: Close Long 1.6597 ETH at 3347.7
+Trade Closed for  1.6597
+New Value of Close Trades:  1431.0177000000008
+Pushing to Notional:  62.97289999999907
+Closed Long: Sold 1.6597 ETH at 3347.7, Closing Value: 5556.18 USDC, Interest: 55.02 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 54.41 USDC, User Net Profit: -0.61 USDC
+----------------------------
+--------------245--------------
+Processing trade: Close Long 10.0322 ETH at 3347.7
+Trade Closed for  10.0322
+New Value of Close Trades:  1441.049900000001
+Pushing to Notional:  52.94069999999897
+Closed Long: Sold 10.0322 ETH at 3347.7, Closing Value: 33584.80 USDC, Interest: 332.56 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 328.87 USDC, User Net Profit: -3.69 USDC
+----------------------------
+--------------246--------------
+Processing trade: Close Long 9.9394 ETH at 3347.7
+Trade Closed for  9.9394
+New Value of Close Trades:  1450.9893000000009
+Pushing to Notional:  43.00129999999899
+Closed Long: Sold 9.9394 ETH at 3347.7, Closing Value: 33274.13 USDC, Interest: 329.48 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 325.83 USDC, User Net Profit: -3.65 USDC
+----------------------------
+--------------247--------------
+Processing trade: Close Long 8.9615 ETH at 3347.7
+Trade Closed for  8.9615
+New Value of Close Trades:  1459.9508000000008
+Pushing to Notional:  34.039799999999104
+Closed Long: Sold 8.9615 ETH at 3347.7, Closing Value: 30000.41 USDC, Interest: 297.07 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 293.77 USDC, User Net Profit: -3.29 USDC
+----------------------------
+--------------248--------------
+Processing trade: Close Long 8.9615 ETH at 3347.7
+Trade Closed for  8.9615
+New Value of Close Trades:  1468.9123000000006
+Pushing to Notional:  25.078299999999217
+Closed Long: Sold 8.9615 ETH at 3347.7, Closing Value: 30000.41 USDC, Interest: 297.07 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 293.77 USDC, User Net Profit: -3.29 USDC
+----------------------------
+--------------249--------------
+Processing trade: Close Long 0.0083 ETH at 3347.7
+Trade Closed for  0.0083
+New Value of Close Trades:  1468.9206000000006
+Pushing to Notional:  25.069999999999254
+Closed Long: Sold 0.0083 ETH at 3347.7, Closing Value: 27.79 USDC, Interest: 0.28 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 0.27 USDC, User Net Profit: -0.00 USDC
+----------------------------
+--------------250--------------
+Processing trade: Close Long 25.6007 ETH at 3347.7
+Trade Closed for  25.6007
+New Value of Close Trades:  1494.5213000000006
+Pushing to Notional:  -0.5307000000007065
+Closed Long: Sold 25.6007 ETH at 3347.7, Closing Value: 85703.46 USDC, Interest: 848.64 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 839.23 USDC, User Net Profit: -9.41 USDC
+----------------------------
+--------------251--------------
+Processing trade: Close Long 0.0117 ETH at 3384.5
+Trade Closed for  0.0117
+New Value of Close Trades:  1494.5330000000006
+Pushing to Notional:  -0.5424000000007254
+Closed Long: Sold 0.0117 ETH at 3384.5, Closing Value: 39.60 USDC, Interest: 0.39 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 0.81 USDC, User Net Profit: 0.43 USDC
+----------------------------
+--------------252--------------
+Processing trade: Close Long 0.0018 ETH at 3384.5
+Trade Closed for  0.0018
+New Value of Close Trades:  1494.5348000000006
+Pushing to Notional:  -0.5442000000007283
+Closed Long: Sold 0.0018 ETH at 3384.5, Closing Value: 6.09 USDC, Interest: 0.06 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 0.13 USDC, User Net Profit: 0.07 USDC
+----------------------------
+--------------253--------------
+Processing trade: Close Long 1.2471 ETH at 3384.5
+Trade Closed for  1.2471
+New Value of Close Trades:  1495.7819000000006
+Pushing to Notional:  -1.7913000000007742
+Closed Long: Sold 1.2471 ETH at 3384.5, Closing Value: 4220.81 USDC, Interest: 41.34 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 86.78 USDC, User Net Profit: 45.43 USDC
+----------------------------
+--------------254--------------
+Processing trade: Close Long 13.8101 ETH at 3384.5
+Trade Closed for  13.8101
+New Value of Close Trades:  1509.5920000000006
+Pushing to Notional:  -15.601400000000694
+Closed Long: Sold 13.8101 ETH at 3384.5, Closing Value: 46740.28 USDC, Interest: 457.79 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 960.93 USDC, User Net Profit: 503.14 USDC
+----------------------------
+--------------255--------------
+Processing trade: Close Long 13.8089 ETH at 3384.5
+Trade Closed for  13.8089
+New Value of Close Trades:  1523.4009000000005
+Pushing to Notional:  -29.41030000000069
+Closed Long: Sold 13.8089 ETH at 3384.5, Closing Value: 46736.22 USDC, Interest: 457.75 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 960.85 USDC, User Net Profit: 503.09 USDC
+----------------------------
+--------------256--------------
+Processing trade: Close Long 8.2204 ETH at 3384.5
+Trade Closed for  8.2204
+New Value of Close Trades:  1531.6213000000005
+Pushing to Notional:  -37.630700000000616
+Closed Long: Sold 8.2204 ETH at 3384.5, Closing Value: 27821.94 USDC, Interest: 272.50 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 571.99 USDC, User Net Profit: 299.49 USDC
+----------------------------
+--------------257--------------
+Processing trade: Close Long 8.2204 ETH at 3384.5
+Trade Closed for  8.2204
+New Value of Close Trades:  1539.8417000000004
+Pushing to Notional:  -45.85110000000054
+Closed Long: Sold 8.2204 ETH at 3384.5, Closing Value: 27821.94 USDC, Interest: 272.50 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 571.99 USDC, User Net Profit: 299.49 USDC
+----------------------------
+--------------258--------------
+Processing trade: Close Long 1.4784 ETH at 3384.5
+Trade Closed for  1.4784
+New Value of Close Trades:  1541.3201000000004
+Pushing to Notional:  -47.32950000000051
+Closed Long: Sold 1.4784 ETH at 3384.5, Closing Value: 5003.64 USDC, Interest: 49.01 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 102.87 USDC, User Net Profit: 53.86 USDC
+----------------------------
+--------------259--------------
+Processing trade: Close Long 8.2204 ETH at 3384.5
+Trade Closed for  8.2204
+New Value of Close Trades:  1549.5405000000003
+Pushing to Notional:  -55.549900000000434
+Closed Long: Sold 8.2204 ETH at 3384.5, Closing Value: 27821.94 USDC, Interest: 272.50 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 571.99 USDC, User Net Profit: 299.49 USDC
+----------------------------
+--------------260--------------
+Processing trade: Close Long 8.2204 ETH at 3384.5
+Trade Closed for  8.2204
+New Value of Close Trades:  1557.7609000000002
+Pushing to Notional:  -63.77030000000036
+Closed Long: Sold 8.2204 ETH at 3384.5, Closing Value: 27821.94 USDC, Interest: 272.50 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 571.99 USDC, User Net Profit: 299.49 USDC
+----------------------------
+--------------261--------------
+Processing trade: Close Long 43.948 ETH at 3384.5
+Trade Closed for  43.948
+New Value of Close Trades:  1601.7089000000003
+Pushing to Notional:  -107.71830000000045
+Closed Long: Sold 43.948 ETH at 3384.5, Closing Value: 117226.22 USDC, Interest: 1148.16 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 2410.05 USDC, User Net Profit: 1261.88 USDC
+Warning: Attempted to close more ETH than available in open positions. Excess: 9.311799999999948 ETH
+----------------------------
+--------------262--------------
+Processing trade: Close Long 11.2375 ETH at 3384.5
+Trade Closed for  11.2375
+New Value of Close Trades:  1612.9464000000003
+Pushing to Notional:  -118.95580000000041
+Closed Long: Sold 11.2375 ETH at 3384.5, Closing Value: 0.00 USDC, Interest: 0.00 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 0.00 USDC, User Net Profit: 0.00 USDC
+Warning: Attempted to close more ETH than available in open positions. Excess: 11.2375 ETH
+----------------------------
+--------------263--------------
+Processing trade: Close Long 6.2042 ETH at 3093.6
+Trade Closed for  6.2042
+New Value of Close Trades:  1619.1506000000002
+Pushing to Notional:  -125.16000000000031
+Closed Long: Sold 6.2042 ETH at 3093.6, Closing Value: 0.00 USDC, Interest: 0.00 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 0.00 USDC, User Net Profit: 0.00 USDC
+Warning: Attempted to close more ETH than available in open positions. Excess: 6.2042 ETH
+----------------------------
+--------------264--------------
+Processing trade: Open Long 23.8234 ETH at 3005.15795436
+Trade Opened for  23.8234
+New Value of Open Trades:  1517.8139999999999
+Pushing to Notional:  -101.33660000000032
+Opened Long: Bought 23.8234 ETH at 3005.15795436, Cost: 71593.08000990002 USDC
+----------------------------
+--------------265--------------
+Processing trade: Close Long 15.1258 ETH at 3034.24958415
+Trade Closed for  15.1258
+New Value of Close Trades:  1634.2764000000002
+Pushing to Notional:  -116.46240000000034
+Closed Long: Sold 15.1258 ETH at 3034.24958415, Closing Value: 45895.45 USDC, Interest: 454.55 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 440.03 USDC, User Net Profit: -14.52 USDC
+----------------------------
+--------------266--------------
+Processing trade: Close Long 1.318 ETH at 3034.2
+Trade Closed for  1.318
+New Value of Close Trades:  1635.5944000000002
+Pushing to Notional:  -117.78040000000033
+Closed Long: Sold 1.318 ETH at 3034.2, Closing Value: 3999.08 USDC, Interest: 39.61 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 38.28 USDC, User Net Profit: -1.33 USDC
+----------------------------
+--------------267--------------
+Processing trade: Close Long 1.318 ETH at 3034.2
+Trade Closed for  1.318
+New Value of Close Trades:  1636.9124000000002
+Pushing to Notional:  -119.09840000000031
+Closed Long: Sold 1.318 ETH at 3034.2, Closing Value: 3999.08 USDC, Interest: 39.61 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 38.28 USDC, User Net Profit: -1.33 USDC
+----------------------------
+--------------268--------------
+Processing trade: Close Long 0.5737 ETH at 3034.2
+Trade Closed for  0.5737
+New Value of Close Trades:  1637.4861
+Pushing to Notional:  -119.67210000000023
+Closed Long: Sold 0.5737 ETH at 3034.2, Closing Value: 1740.72 USDC, Interest: 17.24 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 16.66 USDC, User Net Profit: -0.58 USDC
+----------------------------
+--------------269--------------
+Processing trade: Close Long 2 ETH at 3034.1
+Trade Closed for  2
+New Value of Close Trades:  1639.4861
+Pushing to Notional:  -121.67210000000023
+Closed Long: Sold 2 ETH at 3034.1, Closing Value: 6068.20 USDC, Interest: 60.10 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 57.88 USDC, User Net Profit: -2.22 USDC
+----------------------------
+--------------270--------------
+Processing trade: Close Long 4.6966 ETH at 3032
+Trade Closed for  4.6966
+New Value of Close Trades:  1644.1827
+Pushing to Notional:  -126.36870000000022
+Closed Long: Sold 4.6966 ETH at 3032, Closing Value: 10575.31 USDC, Interest: 104.82 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 93.62 USDC, User Net Profit: -11.19 USDC
+Warning: Attempted to close more ETH than available in open positions. Excess: 1.2086999999999994 ETH
+----------------------------
+--------------271--------------
+Processing trade: Close Long 0.2578 ETH at 3032
+Trade Closed for  0.2578
+New Value of Close Trades:  1644.4405000000002
+Pushing to Notional:  -126.6265000000003
+Closed Long: Sold 0.2578 ETH at 3032, Closing Value: 0.00 USDC, Interest: 0.00 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 0.00 USDC, User Net Profit: 0.00 USDC
+Warning: Attempted to close more ETH than available in open positions. Excess: 0.2578 ETH
+----------------------------
+--------------272--------------
+Processing trade: Close Long 1.0417 ETH at 3032
+Trade Closed for  1.0417
+New Value of Close Trades:  1645.4822000000001
+Pushing to Notional:  -127.6682000000003
+Closed Long: Sold 1.0417 ETH at 3032, Closing Value: 0.00 USDC, Interest: 0.00 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 0.00 USDC, User Net Profit: 0.00 USDC
+Warning: Attempted to close more ETH than available in open positions. Excess: 1.0417 ETH
+----------------------------
+--------------273--------------
+Processing trade: Close Long 0.3192 ETH at 3032
+Trade Closed for  0.3192
+New Value of Close Trades:  1645.8014
+Pushing to Notional:  -127.9874000000002
+Closed Long: Sold 0.3192 ETH at 3032, Closing Value: 0.00 USDC, Interest: 0.00 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 0.00 USDC, User Net Profit: 0.00 USDC
+Warning: Attempted to close more ETH than available in open positions. Excess: 0.3192 ETH
+----------------------------
+--------------274--------------
+Processing trade: Close Long 0.0121 ETH at 3032
+Trade Closed for  0.0121
+New Value of Close Trades:  1645.8135
+Pushing to Notional:  -127.99950000000013
+Closed Long: Sold 0.0121 ETH at 3032, Closing Value: 0.00 USDC, Interest: 0.00 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 0.00 USDC, User Net Profit: 0.00 USDC
+Warning: Attempted to close more ETH than available in open positions. Excess: 0.0121 ETH
+----------------------------
+--------------275--------------
+Processing trade: Close Long 5.3473 ETH at 3032
+Trade Closed for  5.3473
+New Value of Close Trades:  1651.1607999999999
+Pushing to Notional:  -133.34680000000003
+Closed Long: Sold 5.3473 ETH at 3032, Closing Value: 0.00 USDC, Interest: 0.00 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 0.00 USDC, User Net Profit: 0.00 USDC
+Warning: Attempted to close more ETH than available in open positions. Excess: 5.3473 ETH
+----------------------------
+--------------276--------------
+Processing trade: Close Long 0.4897 ETH at 3032
+Trade Closed for  0.4897
+New Value of Close Trades:  1651.6505
+Pushing to Notional:  -133.83650000000011
+Closed Long: Sold 0.4897 ETH at 3032, Closing Value: 0.00 USDC, Interest: 0.00 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 0.00 USDC, User Net Profit: 0.00 USDC
+Warning: Attempted to close more ETH than available in open positions. Excess: 0.4897 ETH
+----------------------------
+--------------277--------------
+Processing trade: Close Long 16.4809 ETH at 3032
+Trade Closed for  16.4809
+New Value of Close Trades:  1668.1314
+Pushing to Notional:  -150.31740000000013
+Closed Long: Sold 16.4809 ETH at 3032, Closing Value: 0.00 USDC, Interest: 0.00 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 0.00 USDC, User Net Profit: 0.00 USDC
+Warning: Attempted to close more ETH than available in open positions. Excess: 16.4809 ETH
+----------------------------
+--------------278--------------
+Processing trade: Open Short 120 ETH at 2927.59003217
+----------------------------
+--------------279--------------
+Processing trade: Open Short 8.0689 ETH at 2962.9
+----------------------------
+--------------280--------------
+Processing trade: Open Short 8.0689 ETH at 2962.7
+----------------------------
+--------------281--------------
+Processing trade: Open Short 8.0689 ETH at 2962.3
+----------------------------
+--------------282--------------
+Processing trade: Close Short 12.179 ETH at 3015.74399376
+----------------------------
+--------------283--------------
+Processing trade: Close Short 0.0069 ETH at 3015.9
+----------------------------
+--------------284--------------
+Processing trade: Close Short 9.961 ETH at 3015.9
+----------------------------
+--------------285--------------
+Processing trade: Close Short 9.9383 ETH at 3015.9
+----------------------------
+--------------286--------------
+Processing trade: Close Short 0.2005 ETH at 3015.9
+----------------------------
+--------------287--------------
+Processing trade: Close Short 1.0302 ETH at 3015.9
+----------------------------
+--------------288--------------
+Processing trade: Close Short 2.7357 ETH at 3015.9
+----------------------------
+--------------289--------------
+Processing trade: Close Short 32.4465 ETH at 3015.70929099
+----------------------------
+--------------290--------------
+Processing trade: Open Short 9.4088 ETH at 2934.4
+----------------------------
+--------------291--------------
+Processing trade: Open Short 0.1 ETH at 2933.9
+----------------------------
+--------------292--------------
+Processing trade: Close Short (Price Improved) 14.567 ETH at 2766.9
+----------------------------
+--------------293--------------
+Processing trade: Close Short (Price Improved) 14.2757 ETH at 2742.8
+----------------------------
+--------------294--------------
+Processing trade: Close Short (Price Improved) 14.4214 ETH at 2722.2
+----------------------------
+--------------295--------------
+Processing trade: Close Short (Price Improved) 14.13 ETH at 2701
+----------------------------
+--------------296--------------
+Processing trade: Close Short 13.9116 ETH at 2683.19005003
+----------------------------
+--------------297--------------
+Processing trade: Close Short 13.9117 ETH at 2704.82811806
+----------------------------
+--------------298--------------
+Processing trade: Close Long 13.2737 ETH at 2487.7
+Trade Closed for  13.2737
+New Value of Close Trades:  1681.4051
+Pushing to Notional:  -163.5911000000001
+Closed Long: Sold 13.2737 ETH at 2487.7, Closing Value: 0.00 USDC, Interest: 0.00 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 0.00 USDC, User Net Profit: 0.00 USDC
+Warning: Attempted to close more ETH than available in open positions. Excess: 13.2737 ETH
+----------------------------
+--------------299--------------
+Processing trade: Close Long 0.0164 ETH at 2487.7
+Trade Closed for  0.0164
+New Value of Close Trades:  1681.4215
+Pushing to Notional:  -163.60750000000007
+Closed Long: Sold 0.0164 ETH at 2487.7, Closing Value: 0.00 USDC, Interest: 0.00 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 0.00 USDC, User Net Profit: 0.00 USDC
+Warning: Attempted to close more ETH than available in open positions. Excess: 0.0164 ETH
+----------------------------
+--------------300--------------
+Processing trade: Close Long 0.322 ETH at 2487.7
+Trade Closed for  0.322
+New Value of Close Trades:  1681.7434999999998
+Pushing to Notional:  -163.92949999999996
+Closed Long: Sold 0.322 ETH at 2487.7, Closing Value: 0.00 USDC, Interest: 0.00 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 0.00 USDC, User Net Profit: 0.00 USDC
+Warning: Attempted to close more ETH than available in open positions. Excess: 0.322 ETH
+----------------------------
+--------------301--------------
+Processing trade: Close Long 0.0095 ETH at 2487.7
+Trade Closed for  0.0095
+New Value of Close Trades:  1681.7529999999997
+Pushing to Notional:  -163.93899999999985
+Closed Long: Sold 0.0095 ETH at 2487.7, Closing Value: 0.00 USDC, Interest: 0.00 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 0.00 USDC, User Net Profit: 0.00 USDC
+Warning: Attempted to close more ETH than available in open positions. Excess: 0.0095 ETH
+----------------------------
+--------------302--------------
+Processing trade: Close Long 0.0164 ETH at 2487.7
+Trade Closed for  0.0164
+New Value of Close Trades:  1681.7693999999997
+Pushing to Notional:  -163.95539999999983
+Closed Long: Sold 0.0164 ETH at 2487.7, Closing Value: 0.00 USDC, Interest: 0.00 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 0.00 USDC, User Net Profit: 0.00 USDC
+Warning: Attempted to close more ETH than available in open positions. Excess: 0.0164 ETH
+----------------------------
+--------------303--------------
+Processing trade: Close Long 4.8617 ETH at 2487.7
+Trade Closed for  4.8617
+New Value of Close Trades:  1686.6310999999996
+Pushing to Notional:  -168.81709999999975
+Closed Long: Sold 4.8617 ETH at 2487.7, Closing Value: 0.00 USDC, Interest: 0.00 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 0.00 USDC, User Net Profit: 0.00 USDC
+Warning: Attempted to close more ETH than available in open positions. Excess: 4.8617 ETH
+----------------------------
+--------------304--------------
+Processing trade: Close Long 0.0395 ETH at 2487.7
+Trade Closed for  0.0395
+New Value of Close Trades:  1686.6705999999997
+Pushing to Notional:  -168.85659999999984
+Closed Long: Sold 0.0395 ETH at 2487.7, Closing Value: 0.00 USDC, Interest: 0.00 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 0.00 USDC, User Net Profit: 0.00 USDC
+Warning: Attempted to close more ETH than available in open positions. Excess: 0.0395 ETH
+----------------------------
+--------------305--------------
+Processing trade: Close Long 21.1289 ETH at 2487.7
+Trade Closed for  21.1289
+New Value of Close Trades:  1707.7994999999996
+Pushing to Notional:  -189.98549999999977
+Closed Long: Sold 21.1289 ETH at 2487.7, Closing Value: 0.00 USDC, Interest: 0.00 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 0.00 USDC, User Net Profit: 0.00 USDC
+Warning: Attempted to close more ETH than available in open positions. Excess: 21.1289 ETH
+----------------------------
+--------------306--------------
+Processing trade: Open Short 661.219 ETH at 2458.9135104
+----------------------------
+--------------307--------------
+Processing trade: Close Short 661.219 ETH at 2456.44390275
+----------------------------
+--------------308--------------
+Processing trade: Open Short 662.7959 ETH at 2442.48601529
+----------------------------
+--------------309--------------
+Processing trade: Close Short 662.7959 ETH at 2453.98203883
+----------------------------
+--------------310--------------
+Processing trade: Open Short 644.1363 ETH at 2437.91299441
+----------------------------
+--------------311--------------
+Processing trade: Close Short 644.1363 ETH at 2423.33935256
+----------------------------
+--------------312--------------
+Processing trade: Open Short 649.106 ETH at 2383.75500487
+----------------------------
+--------------313--------------
+Processing trade: Close Short 649.106 ETH at 2375.55439263
+----------------------------
+--------------314--------------
+Processing trade: Open Long 322.7075 ETH at 2386.61493972
+Trade Opened for  322.7075
+New Value of Open Trades:  1840.5214999999998
+Pushing to Notional:  132.7220000000002
+Opened Long: Bought 322.7075 ETH at 2386.61493972, Cost: 770178.5406596919 USDC
+----------------------------
+--------------315--------------
+Processing trade: Close Long 308.8369 ETH at 2400.34181298
+Trade Closed for  308.8369
+New Value of Close Trades:  2016.6363999999996
+Pushing to Notional:  -176.1148999999998
+Closed Long: Sold 308.8369 ETH at 2400.34181298, Closing Value: 741314.12 USDC, Interest: 7370.75 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 4239.36 USDC, User Net Profit: -3131.38 USDC
+----------------------------
+--------------316--------------
+Processing trade: Close Long 1.4473 ETH at 2400
+Trade Closed for  1.4473
+New Value of Close Trades:  2018.0836999999997
+Pushing to Notional:  -177.56219999999985
+Closed Long: Sold 1.4473 ETH at 2400, Closing Value: 3473.52 USDC, Interest: 34.54 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 19.37 USDC, User Net Profit: -15.17 USDC
+----------------------------
+--------------317--------------
+Processing trade: Close Long 1 ETH at 2400
+Trade Closed for  1
+New Value of Close Trades:  2019.0836999999997
+Pushing to Notional:  -178.56219999999985
+Closed Long: Sold 1 ETH at 2400, Closing Value: 2400.00 USDC, Interest: 23.87 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 13.39 USDC, User Net Profit: -10.48 USDC
+----------------------------
+--------------318--------------
+Processing trade: Close Long 11.4233 ETH at 2400
+Trade Closed for  11.4233
+New Value of Close Trades:  2030.5069999999996
+Pushing to Notional:  -189.98549999999977
+Closed Long: Sold 11.4233 ETH at 2400, Closing Value: 27415.92 USDC, Interest: 272.63 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 152.90 USDC, User Net Profit: -119.73 USDC
+Warning: Attempted to close more ETH than available in open positions. Excess: 3.197442310920451e-14 ETH
+----------------------------
+--------------319--------------
+Processing trade: Open Long 323.1904 ETH at 2398.7961226
+Trade Opened for  323.1904
+New Value of Open Trades:  2163.7119
+Pushing to Notional:  133.20490000000018
+Opened Long: Bought 323.1904 ETH at 2398.7961226, Cost: 775267.8783815431 USDC
+----------------------------
+--------------320--------------
+Processing trade: Close Long 323.1904 ETH at 2405.9398238
+Trade Closed for  323.1904
+New Value of Close Trades:  2353.6973999999996
+Pushing to Notional:  -189.98549999999977
+Closed Long: Sold 323.1904 ETH at 2405.9398238, Closing Value: 777576.65 USDC, Interest: 7752.68 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 2308.78 USDC, User Net Profit: -5443.90 USDC
+----------------------------
+--------------321--------------
+Processing trade: Open Long 10 ETH at 2393.553631
+Trade Opened for  10
+New Value of Open Trades:  2173.7119
+Pushing to Notional:  -179.98549999999977
+Opened Long: Bought 10 ETH at 2393.553631, Cost: 23935.536310000003 USDC
+----------------------------
+--------------322--------------
+Processing trade: Open Long 293.3526 ETH at 2398.29906795
+Trade Opened for  293.3526
+New Value of Open Trades:  2467.0645
+Pushing to Notional:  113.36710000000039
+Opened Long: Bought 293.3526 ETH at 2398.29906795, Cost: 703547.2671607091 USDC
+----------------------------
+--------------323--------------
+Processing trade: Close Long 10 ETH at 2402.73541
+Trade Closed for  10
+New Value of Close Trades:  2363.6973999999996
+Pushing to Notional:  103.36710000000039
+Closed Long: Sold 10 ETH at 2402.73541, Closing Value: 24027.35 USDC, Interest: 239.36 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 91.82 USDC, User Net Profit: -147.54 USDC
+----------------------------
+--------------324--------------
+Processing trade: Close Long 293.3526 ETH at 2399.95502965
+Trade Closed for  293.3526
+New Value of Close Trades:  2657.0499999999997
+Pushing to Notional:  -189.98549999999977
+Closed Long: Sold 293.3526 ETH at 2399.95502965, Closing Value: 704033.05 USDC, Interest: 7035.47 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 485.78 USDC, User Net Profit: -6549.69 USDC
+----------------------------
+--------------325--------------
+Processing trade: Open Long 328.0451 ETH at 2401.70140636
+Trade Opened for  328.0451
+New Value of Open Trades:  2795.1096
+Pushing to Notional:  138.05960000000005
+Opened Long: Bought 328.0451 ETH at 2401.70140636, Cost: 787866.3780195068 USDC
+----------------------------
+--------------326--------------
+Processing trade: Close Long 328.0451 ETH at 2389.34335404
+Trade Closed for  328.0451
+New Value of Close Trades:  2985.0950999999995
+Pushing to Notional:  -189.98549999999977
+Closed Long: Sold 328.0451 ETH at 2389.34335404, Closing Value: 783812.38 USDC, Interest: 7878.66 USDC, Pool Loss: 4054.00 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -7878.66 USDC
+----------------------------
+--------------327--------------
+Processing trade: Open Long 325.521 ETH at 2403.80920146
+Trade Opened for  325.521
+New Value of Open Trades:  3120.6306
+Pushing to Notional:  135.5355000000004
+Opened Long: Bought 325.521 ETH at 2403.80920146, Cost: 782490.3750684607 USDC
+----------------------------
+--------------328--------------
+Processing trade: Close Long 325.521 ETH at 2377.19196233
+Trade Closed for  325.521
+New Value of Close Trades:  3310.6160999999997
+Pushing to Notional:  -189.98549999999977
+Closed Long: Sold 325.521 ETH at 2377.19196233, Closing Value: 773825.90 USDC, Interest: 7824.90 USDC, Pool Loss: 8664.47 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -7824.90 USDC
+----------------------------
+--------------329--------------
+Processing trade: Close Long 94.2672 ETH at 2486.74309261
+Trade Closed for  94.2672
+New Value of Close Trades:  3404.8832999999995
+Pushing to Notional:  -284.25269999999955
+Closed Long: Sold 94.2672 ETH at 2486.74309261, Closing Value: 0.00 USDC, Interest: 0.00 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 0.00 USDC, User Net Profit: 0.00 USDC
+Warning: Attempted to close more ETH than available in open positions. Excess: 94.2672 ETH
+----------------------------
+--------------330--------------
+Processing trade: Open Short 85.6921 ETH at 2675.18080021
+----------------------------
+--------------331--------------
+Processing trade: Close Short 33.695 ETH at 2629.8462674
+----------------------------
+--------------332--------------
+Processing trade: Close Short 0.574 ETH at 2629.9
+----------------------------
+--------------333--------------
+Processing trade: Close Short 51.4231 ETH at 2629.9
+----------------------------
+--------------334--------------
+Processing trade: Open Long 605.2422 ETH at 2779.54300979
+Trade Opened for  605.2422
+New Value of Open Trades:  3725.8728
+Pushing to Notional:  320.9895000000006
+Opened Long: Bought 605.2422 ETH at 2779.54300979, Cost: 1682296.726239921 USDC
+----------------------------
+--------------335--------------
+Processing trade: Close Long 3.1962 ETH at 2760
+Trade Closed for  3.1962
+New Value of Close Trades:  3408.0794999999994
+Pushing to Notional:  317.7933000000007
+Closed Long: Sold 3.1962 ETH at 2760, Closing Value: 8821.51 USDC, Interest: 88.84 USDC, Pool Loss: 62.46 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -88.84 USDC
+----------------------------
+--------------336--------------
+Processing trade: Close Long 14.6328 ETH at 2760
+Trade Closed for  14.6328
+New Value of Close Trades:  3422.7122999999992
+Pushing to Notional:  303.16050000000087
+Closed Long: Sold 14.6328 ETH at 2760, Closing Value: 40386.53 USDC, Interest: 406.72 USDC, Pool Loss: 285.97 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -406.72 USDC
+----------------------------
+--------------337--------------
+Processing trade: Close Long 0.01 ETH at 2760
+Trade Closed for  0.01
+New Value of Close Trades:  3422.7222999999994
+Pushing to Notional:  303.15050000000065
+Closed Long: Sold 0.01 ETH at 2760, Closing Value: 27.60 USDC, Interest: 0.28 USDC, Pool Loss: 0.20 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.28 USDC
+----------------------------
+--------------338--------------
+Processing trade: Close Long 0.01 ETH at 2760
+Trade Closed for  0.01
+New Value of Close Trades:  3422.7322999999997
+Pushing to Notional:  303.14050000000043
+Closed Long: Sold 0.01 ETH at 2760, Closing Value: 27.60 USDC, Interest: 0.28 USDC, Pool Loss: 0.20 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.28 USDC
+----------------------------
+--------------339--------------
+Processing trade: Close Long 0.01 ETH at 2760
+Trade Closed for  0.01
+New Value of Close Trades:  3422.7423
+Pushing to Notional:  303.1305000000002
+Closed Long: Sold 0.01 ETH at 2760, Closing Value: 27.60 USDC, Interest: 0.28 USDC, Pool Loss: 0.20 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.28 USDC
+----------------------------
+--------------340--------------
+Processing trade: Close Long 0.03 ETH at 2760
+Trade Closed for  0.03
+New Value of Close Trades:  3422.7723
+Pushing to Notional:  303.1005
+Closed Long: Sold 0.03 ETH at 2760, Closing Value: 82.80 USDC, Interest: 0.83 USDC, Pool Loss: 0.59 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.83 USDC
+----------------------------
+--------------341--------------
+Processing trade: Close Long 0.01 ETH at 2760
+Trade Closed for  0.01
+New Value of Close Trades:  3422.7823000000003
+Pushing to Notional:  303.0904999999998
+Closed Long: Sold 0.01 ETH at 2760, Closing Value: 27.60 USDC, Interest: 0.28 USDC, Pool Loss: 0.20 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.28 USDC
+----------------------------
+--------------342--------------
+Processing trade: Close Long 0.02 ETH at 2760
+Trade Closed for  0.02
+New Value of Close Trades:  3422.8023000000003
+Pushing to Notional:  303.0704999999998
+Closed Long: Sold 0.02 ETH at 2760, Closing Value: 55.20 USDC, Interest: 0.56 USDC, Pool Loss: 0.39 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.56 USDC
+----------------------------
+--------------343--------------
+Processing trade: Close Long 0.02 ETH at 2760
+Trade Closed for  0.02
+New Value of Close Trades:  3422.8223000000003
+Pushing to Notional:  303.05049999999983
+Closed Long: Sold 0.02 ETH at 2760, Closing Value: 55.20 USDC, Interest: 0.56 USDC, Pool Loss: 0.39 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.56 USDC
+----------------------------
+--------------344--------------
+Processing trade: Close Long 0.02 ETH at 2760
+Trade Closed for  0.02
+New Value of Close Trades:  3422.8423000000003
+Pushing to Notional:  303.03049999999985
+Closed Long: Sold 0.02 ETH at 2760, Closing Value: 55.20 USDC, Interest: 0.56 USDC, Pool Loss: 0.39 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.56 USDC
+----------------------------
+--------------345--------------
+Processing trade: Close Long 0.04 ETH at 2760
+Trade Closed for  0.04
+New Value of Close Trades:  3422.8823
+Pushing to Notional:  302.9904999999999
+Closed Long: Sold 0.04 ETH at 2760, Closing Value: 110.40 USDC, Interest: 1.11 USDC, Pool Loss: 0.78 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -1.11 USDC
+----------------------------
+--------------346--------------
+Processing trade: Close Long 0.06 ETH at 2760
+Trade Closed for  0.06
+New Value of Close Trades:  3422.9423
+Pushing to Notional:  302.93049999999994
+Closed Long: Sold 0.06 ETH at 2760, Closing Value: 165.60 USDC, Interest: 1.67 USDC, Pool Loss: 1.17 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -1.67 USDC
+----------------------------
+--------------347--------------
+Processing trade: Close Long 2.3376 ETH at 2760
+Trade Closed for  2.3376
+New Value of Close Trades:  3425.2799
+Pushing to Notional:  300.5929000000001
+Closed Long: Sold 2.3376 ETH at 2760, Closing Value: 6451.78 USDC, Interest: 64.97 USDC, Pool Loss: 45.68 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -64.97 USDC
+----------------------------
+--------------348--------------
+Processing trade: Close Long 0.01 ETH at 2760
+Trade Closed for  0.01
+New Value of Close Trades:  3425.2899
+Pushing to Notional:  300.5828999999999
+Closed Long: Sold 0.01 ETH at 2760, Closing Value: 27.60 USDC, Interest: 0.28 USDC, Pool Loss: 0.20 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.28 USDC
+----------------------------
+--------------349--------------
+Processing trade: Close Long 0.01 ETH at 2760
+Trade Closed for  0.01
+New Value of Close Trades:  3425.2999000000004
+Pushing to Notional:  300.57289999999966
+Closed Long: Sold 0.01 ETH at 2760, Closing Value: 27.60 USDC, Interest: 0.28 USDC, Pool Loss: 0.20 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.28 USDC
+----------------------------
+--------------350--------------
+Processing trade: Close Long 0.01 ETH at 2760
+Trade Closed for  0.01
+New Value of Close Trades:  3425.3099000000007
+Pushing to Notional:  300.56289999999944
+Closed Long: Sold 0.01 ETH at 2760, Closing Value: 27.60 USDC, Interest: 0.28 USDC, Pool Loss: 0.20 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.28 USDC
+----------------------------
+--------------351--------------
+Processing trade: Close Long 0.01 ETH at 2760
+Trade Closed for  0.01
+New Value of Close Trades:  3425.319900000001
+Pushing to Notional:  300.5528999999992
+Closed Long: Sold 0.01 ETH at 2760, Closing Value: 27.60 USDC, Interest: 0.28 USDC, Pool Loss: 0.20 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.28 USDC
+----------------------------
+--------------352--------------
+Processing trade: Close Long 0.03 ETH at 2760
+Trade Closed for  0.03
+New Value of Close Trades:  3425.349900000001
+Pushing to Notional:  300.522899999999
+Closed Long: Sold 0.03 ETH at 2760, Closing Value: 82.80 USDC, Interest: 0.83 USDC, Pool Loss: 0.59 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.83 USDC
+----------------------------
+--------------353--------------
+Processing trade: Close Long 27.7934 ETH at 2760
+Trade Closed for  27.7934
+New Value of Close Trades:  3453.143300000001
+Pushing to Notional:  272.729499999999
+Closed Long: Sold 27.7934 ETH at 2760, Closing Value: 76709.78 USDC, Interest: 772.53 USDC, Pool Loss: 543.17 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -772.53 USDC
+----------------------------
+--------------354--------------
+Processing trade: Close Long 5.1644 ETH at 2760
+Trade Closed for  5.1644
+New Value of Close Trades:  3458.307700000001
+Pushing to Notional:  267.5650999999989
+Closed Long: Sold 5.1644 ETH at 2760, Closing Value: 14253.74 USDC, Interest: 143.55 USDC, Pool Loss: 100.93 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -143.55 USDC
+----------------------------
+--------------355--------------
+Processing trade: Close Long 6.6084 ETH at 2760
+Trade Closed for  6.6084
+New Value of Close Trades:  3464.9161000000013
+Pushing to Notional:  260.9566999999988
+Closed Long: Sold 6.6084 ETH at 2760, Closing Value: 18239.18 USDC, Interest: 183.68 USDC, Pool Loss: 129.15 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -183.68 USDC
+----------------------------
+--------------356--------------
+Processing trade: Close Long 8.7005 ETH at 2760
+Trade Closed for  8.7005
+New Value of Close Trades:  3473.616600000001
+Pushing to Notional:  252.2561999999989
+Closed Long: Sold 8.7005 ETH at 2760, Closing Value: 24013.38 USDC, Interest: 241.83 USDC, Pool Loss: 170.03 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -241.83 USDC
+----------------------------
+--------------357--------------
+Processing trade: Close Long 3.284 ETH at 2760
+Trade Closed for  3.284
+New Value of Close Trades:  3476.9006000000013
+Pushing to Notional:  248.9721999999988
+Closed Long: Sold 3.284 ETH at 2760, Closing Value: 9063.84 USDC, Interest: 91.28 USDC, Pool Loss: 64.18 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -91.28 USDC
+----------------------------
+--------------358--------------
+Processing trade: Close Long 0.01 ETH at 2760
+Trade Closed for  0.01
+New Value of Close Trades:  3476.9106000000015
+Pushing to Notional:  248.96219999999857
+Closed Long: Sold 0.01 ETH at 2760, Closing Value: 27.60 USDC, Interest: 0.28 USDC, Pool Loss: 0.20 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.28 USDC
+----------------------------
+--------------359--------------
+Processing trade: Close Long 9.7305 ETH at 2760
+Trade Closed for  9.7305
+New Value of Close Trades:  3486.6411000000016
+Pushing to Notional:  239.23169999999845
+Closed Long: Sold 9.7305 ETH at 2760, Closing Value: 26856.18 USDC, Interest: 270.46 USDC, Pool Loss: 190.16 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -270.46 USDC
+----------------------------
+--------------360--------------
+Processing trade: Close Long 1.3024 ETH at 2760
+Trade Closed for  1.3024
+New Value of Close Trades:  3487.9435000000017
+Pushing to Notional:  237.92929999999842
+Closed Long: Sold 1.3024 ETH at 2760, Closing Value: 3594.62 USDC, Interest: 36.20 USDC, Pool Loss: 25.45 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -36.20 USDC
+----------------------------
+--------------361--------------
+Processing trade: Close Long 0.01 ETH at 2760
+Trade Closed for  0.01
+New Value of Close Trades:  3487.953500000002
+Pushing to Notional:  237.9192999999982
+Closed Long: Sold 0.01 ETH at 2760, Closing Value: 27.60 USDC, Interest: 0.28 USDC, Pool Loss: 0.20 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.28 USDC
+----------------------------
+--------------362--------------
+Processing trade: Close Long 0.05 ETH at 2760
+Trade Closed for  0.05
+New Value of Close Trades:  3488.003500000002
+Pushing to Notional:  237.86929999999802
+Closed Long: Sold 0.05 ETH at 2760, Closing Value: 138.00 USDC, Interest: 1.39 USDC, Pool Loss: 0.98 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -1.39 USDC
+----------------------------
+--------------363--------------
+Processing trade: Close Long 1.3024 ETH at 2760
+Trade Closed for  1.3024
+New Value of Close Trades:  3489.305900000002
+Pushing to Notional:  236.566899999998
+Closed Long: Sold 1.3024 ETH at 2760, Closing Value: 3594.62 USDC, Interest: 36.20 USDC, Pool Loss: 25.45 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -36.20 USDC
+----------------------------
+--------------364--------------
+Processing trade: Close Long 0.01 ETH at 2760
+Trade Closed for  0.01
+New Value of Close Trades:  3489.3159000000023
+Pushing to Notional:  236.55689999999777
+Closed Long: Sold 0.01 ETH at 2760, Closing Value: 27.60 USDC, Interest: 0.28 USDC, Pool Loss: 0.20 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.28 USDC
+----------------------------
+--------------365--------------
+Processing trade: Close Long 1.6 ETH at 2760
+Trade Closed for  1.6
+New Value of Close Trades:  3490.9159000000022
+Pushing to Notional:  234.95689999999786
+Closed Long: Sold 1.6 ETH at 2760, Closing Value: 4416.00 USDC, Interest: 44.47 USDC, Pool Loss: 31.27 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -44.47 USDC
+----------------------------
+--------------366--------------
+Processing trade: Close Long 0.02 ETH at 2760
+Trade Closed for  0.02
+New Value of Close Trades:  3490.935900000002
+Pushing to Notional:  234.93689999999788
+Closed Long: Sold 0.02 ETH at 2760, Closing Value: 55.20 USDC, Interest: 0.56 USDC, Pool Loss: 0.39 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.56 USDC
+----------------------------
+--------------367--------------
+Processing trade: Close Long 0.05 ETH at 2760
+Trade Closed for  0.05
+New Value of Close Trades:  3490.9859000000024
+Pushing to Notional:  234.8868999999977
+Closed Long: Sold 0.05 ETH at 2760, Closing Value: 138.00 USDC, Interest: 1.39 USDC, Pool Loss: 0.98 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -1.39 USDC
+----------------------------
+--------------368--------------
+Processing trade: Close Long 0.01 ETH at 2760
+Trade Closed for  0.01
+New Value of Close Trades:  3490.9959000000026
+Pushing to Notional:  234.87689999999748
+Closed Long: Sold 0.01 ETH at 2760, Closing Value: 27.60 USDC, Interest: 0.28 USDC, Pool Loss: 0.20 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.28 USDC
+----------------------------
+--------------369--------------
+Processing trade: Close Long 41.8827 ETH at 2760
+Trade Closed for  41.8827
+New Value of Close Trades:  3532.8786000000027
+Pushing to Notional:  192.99419999999736
+Closed Long: Sold 41.8827 ETH at 2760, Closing Value: 115596.25 USDC, Interest: 1164.15 USDC, Pool Loss: 818.51 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -1164.15 USDC
+----------------------------
+--------------370--------------
+Processing trade: Close Long 0.0064 ETH at 2760
+Trade Closed for  0.0064
+New Value of Close Trades:  3532.885000000003
+Pushing to Notional:  192.98779999999715
+Closed Long: Sold 0.0064 ETH at 2760, Closing Value: 17.66 USDC, Interest: 0.18 USDC, Pool Loss: 0.13 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.18 USDC
+----------------------------
+--------------371--------------
+Processing trade: Close Long 12.978 ETH at 2760
+Trade Closed for  12.978
+New Value of Close Trades:  3545.863000000003
+Pushing to Notional:  180.00979999999709
+Closed Long: Sold 12.978 ETH at 2760, Closing Value: 35819.28 USDC, Interest: 360.73 USDC, Pool Loss: 253.63 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -360.73 USDC
+----------------------------
+--------------372--------------
+Processing trade: Close Long 0.3825 ETH at 2760
+Trade Closed for  0.3825
+New Value of Close Trades:  3546.245500000003
+Pushing to Notional:  179.62729999999692
+Closed Long: Sold 0.3825 ETH at 2760, Closing Value: 1055.70 USDC, Interest: 10.63 USDC, Pool Loss: 7.48 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -10.63 USDC
+----------------------------
+--------------373--------------
+Processing trade: Close Long 7.478 ETH at 2760
+Trade Closed for  7.478
+New Value of Close Trades:  3553.7235000000032
+Pushing to Notional:  172.14929999999686
+Closed Long: Sold 7.478 ETH at 2760, Closing Value: 20639.28 USDC, Interest: 207.85 USDC, Pool Loss: 146.14 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -207.85 USDC
+----------------------------
+--------------374--------------
+Processing trade: Close Long 0.01 ETH at 2760
+Trade Closed for  0.01
+New Value of Close Trades:  3553.7335000000035
+Pushing to Notional:  172.13929999999664
+Closed Long: Sold 0.01 ETH at 2760, Closing Value: 27.60 USDC, Interest: 0.28 USDC, Pool Loss: 0.20 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.28 USDC
+----------------------------
+--------------375--------------
+Processing trade: Close Long 11.2202 ETH at 2760
+Trade Closed for  11.2202
+New Value of Close Trades:  3564.9537000000037
+Pushing to Notional:  160.91909999999643
+Closed Long: Sold 11.2202 ETH at 2760, Closing Value: 30967.75 USDC, Interest: 311.87 USDC, Pool Loss: 219.28 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -311.87 USDC
+----------------------------
+--------------376--------------
+Processing trade: Close Long 5.3857 ETH at 2760
+Trade Closed for  5.3857
+New Value of Close Trades:  3570.3394000000035
+Pushing to Notional:  155.53339999999662
+Closed Long: Sold 5.3857 ETH at 2760, Closing Value: 14864.53 USDC, Interest: 149.70 USDC, Pool Loss: 105.25 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -149.70 USDC
+----------------------------
+--------------377--------------
+Processing trade: Close Long 1.3124 ETH at 2760
+Trade Closed for  1.3124
+New Value of Close Trades:  3571.6518000000033
+Pushing to Notional:  154.22099999999682
+Closed Long: Sold 1.3124 ETH at 2760, Closing Value: 3622.22 USDC, Interest: 36.48 USDC, Pool Loss: 25.65 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -36.48 USDC
+----------------------------
+--------------378--------------
+Processing trade: Close Long 19.8153 ETH at 2760
+Trade Closed for  19.8153
+New Value of Close Trades:  3591.4671000000035
+Pushing to Notional:  134.4056999999966
+Closed Long: Sold 19.8153 ETH at 2760, Closing Value: 54690.23 USDC, Interest: 550.77 USDC, Pool Loss: 387.25 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -550.77 USDC
+----------------------------
+--------------379--------------
+Processing trade: Close Long 352.1861 ETH at 2760
+Trade Closed for  352.1861
+New Value of Close Trades:  3943.6532000000034
+Pushing to Notional:  -217.78040000000328
+Closed Long: Sold 352.1861 ETH at 2760, Closing Value: 972033.64 USDC, Interest: 9789.16 USDC, Pool Loss: 6882.78 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -9789.16 USDC
+----------------------------
+--------------380--------------
+Processing trade: Close Long 66.4723 ETH at 2760
+Trade Closed for  66.4723
+New Value of Close Trades:  4010.1255000000033
+Pushing to Notional:  -284.2527000000032
+Closed Long: Sold 66.4723 ETH at 2760, Closing Value: 183463.55 USDC, Interest: 1847.63 USDC, Pool Loss: 1299.07 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -1847.63 USDC
+----------------------------
+--------------381--------------
+Processing trade: Open Long 9.057 ETH at 2687
+Trade Opened for  9.057
+New Value of Open Trades:  3734.9298
+Pushing to Notional:  -275.1957000000034
+Opened Long: Bought 9.057 ETH at 2687, Cost: 24336.159 USDC
+----------------------------
+--------------382--------------
+Processing trade: Open Long 0.1513 ETH at 2687
+Trade Opened for  0.1513
+New Value of Open Trades:  3735.0811
+Pushing to Notional:  -275.0444000000034
+Opened Long: Bought 0.1513 ETH at 2687, Cost: 406.5431 USDC
+----------------------------
+--------------383--------------
+Processing trade: Open Long 12.6647 ETH at 2687
+Trade Opened for  12.6647
+New Value of Open Trades:  3747.7457999999997
+Pushing to Notional:  -262.3797000000036
+Opened Long: Bought 12.6647 ETH at 2687, Cost: 34030.0489 USDC
+----------------------------
+--------------384--------------
+Processing trade: Open Long 21.873 ETH at 2673.6
+Trade Opened for  21.873
+New Value of Open Trades:  3769.6187999999997
+Pushing to Notional:  -240.50670000000355
+Opened Long: Bought 21.873 ETH at 2673.6, Cost: 58479.6528 USDC
+----------------------------
+--------------385--------------
+Processing trade: Close Long 43.746 ETH at 2688
+Trade Closed for  43.746
+New Value of Close Trades:  4053.8715000000034
+Pushing to Notional:  -284.25270000000364
+Closed Long: Sold 43.746 ETH at 2688, Closing Value: 117589.25 USDC, Interest: 1172.52 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 336.84 USDC, User Net Profit: -835.68 USDC
+----------------------------
+--------------386--------------
+Processing trade: Open Long (Price Improved) 1.5472 ETH at 2526.7
+Trade Opened for  1.5472
+New Value of Open Trades:  3771.1659999999997
+Pushing to Notional:  -282.70550000000367
+Opened Long: Bought 1.5472 ETH at 2526.7, Cost: 3909.3102399999993 USDC
+----------------------------
+--------------387--------------
+Processing trade: Open Long 1.4499 ETH at 2526.7
+Trade Opened for  1.4499
+New Value of Open Trades:  3772.6159
+Pushing to Notional:  -281.2556000000036
+Opened Long: Bought 1.4499 ETH at 2526.7, Cost: 3663.46233 USDC
+----------------------------
+--------------388--------------
+Processing trade: Open Long 7.6097 ETH at 2526.7
+Trade Opened for  7.6097
+New Value of Open Trades:  3780.2255999999998
+Pushing to Notional:  -273.6459000000036
+Opened Long: Bought 7.6097 ETH at 2526.7, Cost: 19227.42899 USDC
+----------------------------
+--------------389--------------
+Processing trade: Open Long 11.2662 ETH at 2526.7
+Trade Opened for  11.2662
+New Value of Open Trades:  3791.4918
+Pushing to Notional:  -262.3797000000036
+Opened Long: Bought 11.2662 ETH at 2526.7, Cost: 28466.307539999998 USDC
+----------------------------
+--------------390--------------
+Processing trade: Close Long 1 ETH at 2455.6
+Trade Closed for  1
+New Value of Close Trades:  4054.8715000000034
+Pushing to Notional:  -263.3797000000036
+Closed Long: Sold 1 ETH at 2455.6, Closing Value: 2455.60 USDC, Interest: 25.27 USDC, Pool Loss: 71.10 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -25.27 USDC
+----------------------------
+--------------391--------------
+Processing trade: Close Long 20.873 ETH at 2455.5
+Trade Closed for  20.873
+New Value of Close Trades:  4075.7445000000034
+Pushing to Notional:  -284.25270000000364
+Closed Long: Sold 20.873 ETH at 2455.5, Closing Value: 51253.65 USDC, Interest: 527.40 USDC, Pool Loss: 1486.16 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -527.40 USDC
+----------------------------
+--------------392--------------
+Processing trade: Open Long 470.2991 ETH at 2548.70514071
+Trade Opened for  470.2991
+New Value of Open Trades:  4261.7909
+Pushing to Notional:  186.04639999999654
+Opened Long: Bought 470.2991 ETH at 2548.70514071, Cost: 1198653.7338412863 USDC
+----------------------------
+--------------393--------------
+Processing trade: Open Long 445.8685 ETH at 2550.91033255
+Trade Opened for  445.8685
+New Value of Open Trades:  4707.6594
+Pushing to Notional:  631.9148999999961
+Opened Long: Bought 445.8685 ETH at 2550.91033255, Cost: 1137370.5636085696 USDC
+----------------------------
+--------------394--------------
+Processing trade: Close Long 1.2916 ETH at 2536.3
+Trade Closed for  1.2916
+New Value of Close Trades:  4077.0361000000034
+Pushing to Notional:  630.6232999999961
+Closed Long: Sold 1.2916 ETH at 2536.3, Closing Value: 3275.89 USDC, Interest: 32.92 USDC, Pool Loss: 16.02 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -32.92 USDC
+----------------------------
+--------------395--------------
+Processing trade: Close Long 0.0236 ETH at 2536.3
+Trade Closed for  0.0236
+New Value of Close Trades:  4077.0597000000034
+Pushing to Notional:  630.5996999999961
+Closed Long: Sold 0.0236 ETH at 2536.3, Closing Value: 59.86 USDC, Interest: 0.60 USDC, Pool Loss: 0.29 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -0.60 USDC
+----------------------------
+--------------396--------------
+Processing trade: Close Long 0.0977 ETH at 2536.3
+Trade Closed for  0.0977
+New Value of Close Trades:  4077.1574000000032
+Pushing to Notional:  630.5019999999963
+Closed Long: Sold 0.0977 ETH at 2536.3, Closing Value: 247.80 USDC, Interest: 2.49 USDC, Pool Loss: 1.21 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -2.49 USDC
+----------------------------
+--------------397--------------
+Processing trade: Close Long 19.3394 ETH at 2536.3
+Trade Closed for  19.3394
+New Value of Close Trades:  4096.4968000000035
+Pushing to Notional:  611.162599999996
+Closed Long: Sold 19.3394 ETH at 2536.3, Closing Value: 49050.52 USDC, Interest: 492.90 USDC, Pool Loss: 239.91 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -492.90 USDC
+----------------------------
+--------------398--------------
+Processing trade: Close Long 14.3593 ETH at 2536.3
+Trade Closed for  14.3593
+New Value of Close Trades:  4110.856100000004
+Pushing to Notional:  596.8032999999959
+Closed Long: Sold 14.3593 ETH at 2536.3, Closing Value: 36419.49 USDC, Interest: 365.98 USDC, Pool Loss: 178.13 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -365.98 USDC
+----------------------------
+--------------399--------------
+Processing trade: Close Long 14.3538 ETH at 2536.3
+Trade Closed for  14.3538
+New Value of Close Trades:  4125.2099000000035
+Pushing to Notional:  582.4494999999961
+Closed Long: Sold 14.3538 ETH at 2536.3, Closing Value: 36405.54 USDC, Interest: 365.84 USDC, Pool Loss: 178.06 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -365.84 USDC
+----------------------------
+--------------400--------------
+Processing trade: Close Long 52.1855 ETH at 2536.3
+Trade Closed for  52.1855
+New Value of Close Trades:  4177.395400000003
+Pushing to Notional:  530.2639999999965
+Closed Long: Sold 52.1855 ETH at 2536.3, Closing Value: 132358.08 USDC, Interest: 1330.05 USDC, Pool Loss: 647.37 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -1330.05 USDC
+----------------------------
+--------------401--------------
+Processing trade: Close Long 23.541 ETH at 2536.3
+Trade Closed for  23.541
+New Value of Close Trades:  4200.936400000003
+Pushing to Notional:  506.7229999999963
+Closed Long: Sold 23.541 ETH at 2536.3, Closing Value: 59707.04 USDC, Interest: 599.99 USDC, Pool Loss: 292.03 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -599.99 USDC
+----------------------------
+--------------402--------------
+Processing trade: Close Long 0.8442 ETH at 2536.3
+Trade Closed for  0.8442
+New Value of Close Trades:  4201.780600000003
+Pushing to Notional:  505.8787999999968
+Closed Long: Sold 0.8442 ETH at 2536.3, Closing Value: 2141.14 USDC, Interest: 21.52 USDC, Pool Loss: 10.47 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -21.52 USDC
+----------------------------
+--------------403--------------
+Processing trade: Close Long 18.0392 ETH at 2536.3
+Trade Closed for  18.0392
+New Value of Close Trades:  4219.819800000003
+Pushing to Notional:  487.8395999999966
+Closed Long: Sold 18.0392 ETH at 2536.3, Closing Value: 45752.82 USDC, Interest: 459.77 USDC, Pool Loss: 223.78 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -459.77 USDC
+----------------------------
+--------------404--------------
+Processing trade: Close Long 6.2362 ETH at 2536.3
+Trade Closed for  6.2362
+New Value of Close Trades:  4226.056000000003
+Pushing to Notional:  481.6033999999963
+Closed Long: Sold 6.2362 ETH at 2536.3, Closing Value: 15816.87 USDC, Interest: 158.94 USDC, Pool Loss: 77.36 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -158.94 USDC
+----------------------------
+--------------405--------------
+Processing trade: Close Long 1.326 ETH at 2536.3
+Trade Closed for  1.326
+New Value of Close Trades:  4227.382000000003
+Pushing to Notional:  480.2773999999963
+Closed Long: Sold 1.326 ETH at 2536.3, Closing Value: 3363.13 USDC, Interest: 33.80 USDC, Pool Loss: 16.45 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -33.80 USDC
+----------------------------
+--------------406--------------
+Processing trade: Close Long 0.1152 ETH at 2536.3
+Trade Closed for  0.1152
+New Value of Close Trades:  4227.497200000003
+Pushing to Notional:  480.1621999999961
+Closed Long: Sold 0.1152 ETH at 2536.3, Closing Value: 292.18 USDC, Interest: 2.94 USDC, Pool Loss: 1.43 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -2.94 USDC
+----------------------------
+--------------407--------------
+Processing trade: Close Long 1.1281 ETH at 2536.3
+Trade Closed for  1.1281
+New Value of Close Trades:  4228.625300000003
+Pushing to Notional:  479.0340999999962
+Closed Long: Sold 1.1281 ETH at 2536.3, Closing Value: 2861.20 USDC, Interest: 28.75 USDC, Pool Loss: 13.99 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -28.75 USDC
+----------------------------
+--------------408--------------
+Processing trade: Close Long 1.0512 ETH at 2536.3
+Trade Closed for  1.0512
+New Value of Close Trades:  4229.676500000003
+Pushing to Notional:  477.98289999999633
+Closed Long: Sold 1.0512 ETH at 2536.3, Closing Value: 2666.16 USDC, Interest: 26.79 USDC, Pool Loss: 13.04 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -26.79 USDC
+----------------------------
+--------------409--------------
+Processing trade: Close Long 20.5858 ETH at 2536.3
+Trade Closed for  20.5858
+New Value of Close Trades:  4250.262300000003
+Pushing to Notional:  457.3970999999965
+Closed Long: Sold 20.5858 ETH at 2536.3, Closing Value: 52211.76 USDC, Interest: 524.67 USDC, Pool Loss: 255.37 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -524.67 USDC
+----------------------------
+--------------410--------------
+Processing trade: Close Long 20.5858 ETH at 2536.3
+Trade Closed for  20.5858
+New Value of Close Trades:  4270.848100000003
+Pushing to Notional:  436.81129999999666
+Closed Long: Sold 20.5858 ETH at 2536.3, Closing Value: 52211.76 USDC, Interest: 524.67 USDC, Pool Loss: 255.37 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -524.67 USDC
+----------------------------
+--------------411--------------
+Processing trade: Close Long 0.9647 ETH at 2536.3
+Trade Closed for  0.9647
+New Value of Close Trades:  4271.812800000003
+Pushing to Notional:  435.8465999999962
+Closed Long: Sold 0.9647 ETH at 2536.3, Closing Value: 2446.77 USDC, Interest: 24.59 USDC, Pool Loss: 11.97 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -24.59 USDC
+----------------------------
+--------------412--------------
+Processing trade: Close Long 1.0041 ETH at 2536.3
+Trade Closed for  1.0041
+New Value of Close Trades:  4272.816900000003
+Pushing to Notional:  434.8424999999961
+Closed Long: Sold 1.0041 ETH at 2536.3, Closing Value: 2546.70 USDC, Interest: 25.59 USDC, Pool Loss: 12.46 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -25.59 USDC
+----------------------------
+--------------413--------------
+Processing trade: Close Long 1.0262 ETH at 2536.3
+Trade Closed for  1.0262
+New Value of Close Trades:  4273.843100000004
+Pushing to Notional:  433.81629999999586
+Closed Long: Sold 1.0262 ETH at 2536.3, Closing Value: 2602.75 USDC, Interest: 26.15 USDC, Pool Loss: 12.73 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -26.15 USDC
+----------------------------
+--------------414--------------
+Processing trade: Close Long 0.9838 ETH at 2536.3
+Trade Closed for  0.9838
+New Value of Close Trades:  4274.826900000004
+Pushing to Notional:  432.8324999999959
+Closed Long: Sold 0.9838 ETH at 2536.3, Closing Value: 2495.21 USDC, Interest: 25.07 USDC, Pool Loss: 12.20 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -25.07 USDC
+----------------------------
+--------------415--------------
+Processing trade: Close Long 0.9456 ETH at 2536.3
+Trade Closed for  0.9456
+New Value of Close Trades:  4275.772500000004
+Pushing to Notional:  431.8868999999959
+Closed Long: Sold 0.9456 ETH at 2536.3, Closing Value: 2398.33 USDC, Interest: 24.10 USDC, Pool Loss: 11.73 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -24.10 USDC
+----------------------------
+--------------416--------------
+Processing trade: Close Long 0.9109 ETH at 2536.3
+Trade Closed for  0.9109
+New Value of Close Trades:  4276.6834000000035
+Pushing to Notional:  430.975999999996
+Closed Long: Sold 0.9109 ETH at 2536.3, Closing Value: 2310.32 USDC, Interest: 23.22 USDC, Pool Loss: 11.30 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -23.22 USDC
+----------------------------
+--------------417--------------
+Processing trade: Close Long 0.9442 ETH at 2536.3
+Trade Closed for  0.9442
+New Value of Close Trades:  4277.627600000003
+Pushing to Notional:  430.0317999999961
+Closed Long: Sold 0.9442 ETH at 2536.3, Closing Value: 2394.77 USDC, Interest: 24.06 USDC, Pool Loss: 11.71 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -24.06 USDC
+----------------------------
+--------------418--------------
+Processing trade: Close Long 0.9909 ETH at 2536.3
+Trade Closed for  0.9909
+New Value of Close Trades:  4278.618500000003
+Pushing to Notional:  429.0408999999963
+Closed Long: Sold 0.9909 ETH at 2536.3, Closing Value: 2513.22 USDC, Interest: 25.26 USDC, Pool Loss: 12.29 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -25.26 USDC
+----------------------------
+--------------419--------------
+Processing trade: Close Long 1.8893 ETH at 2536.3
+Trade Closed for  1.8893
+New Value of Close Trades:  4280.507800000003
+Pushing to Notional:  427.1515999999965
+Closed Long: Sold 1.8893 ETH at 2536.3, Closing Value: 4791.83 USDC, Interest: 48.15 USDC, Pool Loss: 23.44 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -48.15 USDC
+----------------------------
+--------------420--------------
+Processing trade: Close Long 1.0664 ETH at 2536.3
+Trade Closed for  1.0664
+New Value of Close Trades:  4281.574200000003
+Pushing to Notional:  426.0851999999968
+Closed Long: Sold 1.0664 ETH at 2536.3, Closing Value: 2704.71 USDC, Interest: 27.18 USDC, Pool Loss: 13.23 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -27.18 USDC
+----------------------------
+--------------421--------------
+Processing trade: Close Long 0.982 ETH at 2536.3
+Trade Closed for  0.982
+New Value of Close Trades:  4282.556200000003
+Pushing to Notional:  425.10319999999683
+Closed Long: Sold 0.982 ETH at 2536.3, Closing Value: 2490.65 USDC, Interest: 25.03 USDC, Pool Loss: 12.18 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -25.03 USDC
+----------------------------
+--------------422--------------
+Processing trade: Close Long 2.4818 ETH at 2536.3
+Trade Closed for  2.4818
+New Value of Close Trades:  4285.038000000002
+Pushing to Notional:  422.62139999999727
+Closed Long: Sold 2.4818 ETH at 2536.3, Closing Value: 6294.59 USDC, Interest: 63.25 USDC, Pool Loss: 30.79 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -63.25 USDC
+----------------------------
+--------------423--------------
+Processing trade: Close Long 0.869 ETH at 2536.3
+Trade Closed for  0.869
+New Value of Close Trades:  4285.907000000002
+Pushing to Notional:  421.7523999999976
+Closed Long: Sold 0.869 ETH at 2536.3, Closing Value: 2204.04 USDC, Interest: 22.15 USDC, Pool Loss: 10.78 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -22.15 USDC
+----------------------------
+--------------424--------------
+Processing trade: Close Long 1.2915 ETH at 2536.3
+Trade Closed for  1.2915
+New Value of Close Trades:  4287.198500000002
+Pushing to Notional:  420.4608999999973
+Closed Long: Sold 1.2915 ETH at 2536.3, Closing Value: 3275.63 USDC, Interest: 32.92 USDC, Pool Loss: 16.02 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -32.92 USDC
+----------------------------
+--------------425--------------
+Processing trade: Close Long 0.7379 ETH at 2536.3
+Trade Closed for  0.7379
+New Value of Close Trades:  4287.936400000002
+Pushing to Notional:  419.7229999999972
+Closed Long: Sold 0.7379 ETH at 2536.3, Closing Value: 1871.54 USDC, Interest: 18.81 USDC, Pool Loss: 9.15 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -18.81 USDC
+----------------------------
+--------------426--------------
+Processing trade: Close Long 0.7412 ETH at 2536.3
+Trade Closed for  0.7412
+New Value of Close Trades:  4288.677600000003
+Pushing to Notional:  418.98179999999684
+Closed Long: Sold 0.7412 ETH at 2536.3, Closing Value: 1879.91 USDC, Interest: 18.89 USDC, Pool Loss: 9.19 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -18.89 USDC
+----------------------------
+--------------427--------------
+Processing trade: Close Long 0.902 ETH at 2536.3
+Trade Closed for  0.902
+New Value of Close Trades:  4289.579600000003
+Pushing to Notional:  418.0797999999968
+Closed Long: Sold 0.902 ETH at 2536.3, Closing Value: 2287.74 USDC, Interest: 22.99 USDC, Pool Loss: 11.19 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -22.99 USDC
+----------------------------
+--------------428--------------
+Processing trade: Close Long 0.9436 ETH at 2536.3
+Trade Closed for  0.9436
+New Value of Close Trades:  4290.523200000002
+Pushing to Notional:  417.1361999999972
+Closed Long: Sold 0.9436 ETH at 2536.3, Closing Value: 2393.25 USDC, Interest: 24.05 USDC, Pool Loss: 11.71 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -24.05 USDC
+----------------------------
+--------------429--------------
+Processing trade: Close Long 1.0087 ETH at 2536.3
+Trade Closed for  1.0087
+New Value of Close Trades:  4291.531900000003
+Pushing to Notional:  416.12749999999687
+Closed Long: Sold 1.0087 ETH at 2536.3, Closing Value: 2558.37 USDC, Interest: 25.71 USDC, Pool Loss: 12.51 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -25.71 USDC
+----------------------------
+--------------430--------------
+Processing trade: Close Long 0.989 ETH at 2536.3
+Trade Closed for  0.989
+New Value of Close Trades:  4292.520900000002
+Pushing to Notional:  415.1384999999973
+Closed Long: Sold 0.989 ETH at 2536.3, Closing Value: 2508.40 USDC, Interest: 25.21 USDC, Pool Loss: 12.27 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -25.21 USDC
+----------------------------
+--------------431--------------
+Processing trade: Close Long 1.8956 ETH at 2536.3
+Trade Closed for  1.8956
+New Value of Close Trades:  4294.416500000002
+Pushing to Notional:  413.24289999999746
+Closed Long: Sold 1.8956 ETH at 2536.3, Closing Value: 4807.81 USDC, Interest: 48.31 USDC, Pool Loss: 23.52 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -48.31 USDC
+----------------------------
+--------------432--------------
+Processing trade: Close Long 1.92 ETH at 2536.3
+Trade Closed for  1.92
+New Value of Close Trades:  4296.336500000002
+Pushing to Notional:  411.3228999999974
+Closed Long: Sold 1.92 ETH at 2536.3, Closing Value: 4869.70 USDC, Interest: 48.94 USDC, Pool Loss: 23.82 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -48.94 USDC
+----------------------------
+--------------433--------------
+Processing trade: Close Long 1.004 ETH at 2536.3
+Trade Closed for  1.004
+New Value of Close Trades:  4297.340500000002
+Pushing to Notional:  410.3188999999975
+Closed Long: Sold 1.004 ETH at 2536.3, Closing Value: 2546.45 USDC, Interest: 25.59 USDC, Pool Loss: 12.45 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -25.59 USDC
+----------------------------
+--------------434--------------
+Processing trade: Close Long 0.9811 ETH at 2536.3
+Trade Closed for  0.9811
+New Value of Close Trades:  4298.321600000002
+Pushing to Notional:  409.3377999999975
+Closed Long: Sold 0.9811 ETH at 2536.3, Closing Value: 2488.36 USDC, Interest: 25.01 USDC, Pool Loss: 12.17 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -25.01 USDC
+----------------------------
+--------------435--------------
+Processing trade: Close Long 2.9749 ETH at 2536.3
+Trade Closed for  2.9749
+New Value of Close Trades:  4301.296500000002
+Pushing to Notional:  406.36289999999735
+Closed Long: Sold 2.9749 ETH at 2536.3, Closing Value: 7545.24 USDC, Interest: 75.82 USDC, Pool Loss: 36.90 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -75.82 USDC
+----------------------------
+--------------436--------------
+Processing trade: Close Long 4.4434 ETH at 2536.3
+Trade Closed for  4.4434
+New Value of Close Trades:  4305.739900000002
+Pushing to Notional:  401.91949999999724
+Closed Long: Sold 4.4434 ETH at 2536.3, Closing Value: 11269.80 USDC, Interest: 113.25 USDC, Pool Loss: 55.12 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -113.25 USDC
+----------------------------
+--------------437--------------
+Processing trade: Close Long 1.2794 ETH at 2536.3
+Trade Closed for  1.2794
+New Value of Close Trades:  4307.019300000003
+Pushing to Notional:  400.6400999999969
+Closed Long: Sold 1.2794 ETH at 2536.3, Closing Value: 3244.94 USDC, Interest: 32.61 USDC, Pool Loss: 15.87 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -32.61 USDC
+----------------------------
+--------------438--------------
+Processing trade: Close Long 0.2773 ETH at 2536.3
+Trade Closed for  0.2773
+New Value of Close Trades:  4307.296600000002
+Pushing to Notional:  400.36279999999715
+Closed Long: Sold 0.2773 ETH at 2536.3, Closing Value: 703.32 USDC, Interest: 7.07 USDC, Pool Loss: 3.44 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -7.07 USDC
+----------------------------
+--------------439--------------
+Processing trade: Close Long 2.5444 ETH at 2536.3
+Trade Closed for  2.5444
+New Value of Close Trades:  4309.841000000002
+Pushing to Notional:  397.8183999999974
+Closed Long: Sold 2.5444 ETH at 2536.3, Closing Value: 6453.36 USDC, Interest: 64.85 USDC, Pool Loss: 31.56 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -64.85 USDC
+----------------------------
+--------------440--------------
+Processing trade: Close Long 0.4313 ETH at 2536.3
+Trade Closed for  0.4313
+New Value of Close Trades:  4310.272300000002
+Pushing to Notional:  397.3870999999972
+Closed Long: Sold 0.4313 ETH at 2536.3, Closing Value: 1093.91 USDC, Interest: 10.99 USDC, Pool Loss: 5.35 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -10.99 USDC
+----------------------------
+--------------441--------------
+Processing trade: Close Long 1.0754 ETH at 2536.3
+Trade Closed for  1.0754
+New Value of Close Trades:  4311.347700000002
+Pushing to Notional:  396.3116999999975
+Closed Long: Sold 1.0754 ETH at 2536.3, Closing Value: 2727.54 USDC, Interest: 27.41 USDC, Pool Loss: 13.34 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -27.41 USDC
+----------------------------
+--------------442--------------
+Processing trade: Close Long 1.0977 ETH at 2536.3
+Trade Closed for  1.0977
+New Value of Close Trades:  4312.445400000002
+Pushing to Notional:  395.2139999999972
+Closed Long: Sold 1.0977 ETH at 2536.3, Closing Value: 2784.10 USDC, Interest: 27.98 USDC, Pool Loss: 13.62 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -27.98 USDC
+----------------------------
+--------------443--------------
+Processing trade: Close Long 1.5026 ETH at 2536.3
+Trade Closed for  1.5026
+New Value of Close Trades:  4313.948000000002
+Pushing to Notional:  393.7113999999974
+Closed Long: Sold 1.5026 ETH at 2536.3, Closing Value: 3811.04 USDC, Interest: 38.30 USDC, Pool Loss: 18.64 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -38.30 USDC
+----------------------------
+--------------444--------------
+Processing trade: Close Long 40.6778 ETH at 2534.4
+Trade Closed for  40.6778
+New Value of Close Trades:  4354.6258000000025
+Pushing to Notional:  353.033599999997
+Closed Long: Sold 40.6778 ETH at 2534.4, Closing Value: 103093.82 USDC, Interest: 1036.76 USDC, Pool Loss: 581.90 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -1036.76 USDC
+----------------------------
+--------------445--------------
+Processing trade: Close Long 40.6778 ETH at 2534.28825305
+Trade Closed for  40.6778
+New Value of Close Trades:  4395.303600000003
+Pushing to Notional:  312.35579999999663
+Closed Long: Sold 40.6778 ETH at 2534.28825305, Closing Value: 103089.27 USDC, Interest: 1036.76 USDC, Pool Loss: 586.45 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -1036.76 USDC
+----------------------------
+--------------446--------------
+Processing trade: Close Long 40.6778 ETH at 2534.12791498
+Trade Closed for  40.6778
+New Value of Close Trades:  4435.981400000003
+Pushing to Notional:  271.67799999999625
+Closed Long: Sold 40.6778 ETH at 2534.12791498, Closing Value: 103082.75 USDC, Interest: 1036.76 USDC, Pool Loss: 592.97 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -1036.76 USDC
+----------------------------
+--------------447--------------
+Processing trade: Close Long 28.3176 ETH at 2534.0652128
+Trade Closed for  28.3176
+New Value of Close Trades:  4464.299000000004
+Pushing to Notional:  243.36039999999593
+Closed Long: Sold 28.3176 ETH at 2534.0652128, Closing Value: 71758.65 USDC, Interest: 721.73 USDC, Pool Loss: 414.57 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -721.73 USDC
+----------------------------
+--------------448--------------
+Processing trade: Close Long 40.6778 ETH at 2534.97382921
+Trade Closed for  40.6778
+New Value of Close Trades:  4504.976800000004
+Pushing to Notional:  202.68259999999555
+Closed Long: Sold 40.6778 ETH at 2534.97382921, Closing Value: 103117.16 USDC, Interest: 1036.76 USDC, Pool Loss: 558.56 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -1036.76 USDC
+----------------------------
+--------------449--------------
+Processing trade: Close Long 440.7225 ETH at 2533.17079675
+Trade Closed for  440.7225
+New Value of Close Trades:  4945.699300000004
+Pushing to Notional:  -238.0399000000043
+Closed Long: Sold 440.7225 ETH at 2533.17079675, Closing Value: 1116425.37 USDC, Interest: 11241.53 USDC, Pool Loss: 7727.65 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -11241.53 USDC
+----------------------------
+--------------450--------------
+Processing trade: Close Long 46.2128 ETH at 2532.13668291
+Trade Closed for  46.2128
+New Value of Close Trades:  4991.912100000004
+Pushing to Notional:  -284.25270000000455
+Closed Long: Sold 46.2128 ETH at 2532.13668291, Closing Value: 117017.13 USDC, Interest: 1178.85 USDC, Pool Loss: 867.58 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -1178.85 USDC
+----------------------------
+--------------451--------------
+Processing trade: Open Long 120.1994 ETH at 2457.71863246
+Trade Opened for  120.1994
+New Value of Open Trades:  4827.8588
+Pushing to Notional:  -164.05330000000413
+Opened Long: Bought 120.1994 ETH at 2457.71863246, Cost: 295416.30499051255 USDC
+----------------------------
+--------------452--------------
+Processing trade: Close Long 120.1994 ETH at 2444.90680195
+Trade Closed for  120.1994
+New Value of Close Trades:  5112.1115000000045
+Pushing to Notional:  -284.25270000000455
+Closed Long: Sold 120.1994 ETH at 2444.90680195, Closing Value: 293876.33 USDC, Interest: 2954.16 USDC, Pool Loss: 1539.97 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -2954.16 USDC
+----------------------------
+--------------453--------------
+Processing trade: Open Long 244.4432 ETH at 2447.33174643
+Trade Opened for  244.4432
+New Value of Open Trades:  5072.302
+Pushing to Notional:  -39.809500000004846
+Opened Long: Bought 244.4432 ETH at 2447.33174643, Cost: 598233.6035589377 USDC
+----------------------------
+--------------454--------------
+Processing trade: Close Long 244.4432 ETH at 2442.00362076
+Trade Closed for  244.4432
+New Value of Close Trades:  5356.554700000004
+Pushing to Notional:  -284.25270000000455
+Closed Long: Sold 244.4432 ETH at 2442.00362076, Closing Value: 596931.18 USDC, Interest: 5982.34 USDC, Pool Loss: 1302.42 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -5982.34 USDC
+----------------------------
+--------------455--------------
+Processing trade: Open Long 247.5849 ETH at 2444.4147507
+Trade Opened for  247.5849
+New Value of Open Trades:  5319.8868999999995
+Pushing to Notional:  -36.66780000000472
+Opened Long: Bought 247.5849 ETH at 2444.4147507, Cost: 605200.1816105844 USDC
+----------------------------
+--------------456--------------
+Processing trade: Close Long 247.5849 ETH at 2413.05658948
+Trade Closed for  247.5849
+New Value of Close Trades:  5604.139600000004
+Pushing to Notional:  -284.25270000000455
+Closed Long: Sold 247.5849 ETH at 2413.05658948, Closing Value: 597436.37 USDC, Interest: 6052.00 USDC, Pool Loss: 7763.81 USDC, User Gross Profit: 0.00 USDC, User Net Profit: -6052.00 USDC
+----------------------------
+--------------457--------------
+Processing trade: Open Long 497.145 ETH at 2425.22372855
+Trade Opened for  497.145
+New Value of Open Trades:  5817.0319
+Pushing to Notional:  212.89229999999588
+Opened Long: Bought 497.145 ETH at 2425.22372855, Cost: 1205687.8505299897 USDC
+----------------------------
+--------------458--------------
+Processing trade: Open Long 119.0247 ETH at 2422.18646541
+Trade Opened for  119.0247
+New Value of Open Trades:  5936.0566
+Pushing to Notional:  331.9169999999958
+Opened Long: Bought 119.0247 ETH at 2422.18646541, Cost: 288300.0173894856 USDC
+----------------------------
+--------------459--------------
+Processing trade: Close Long 616.1697 ETH at 2425.13573658
+Trade Closed for  616.1697
+New Value of Close Trades:  6220.309300000004
+Pushing to Notional:  -284.25270000000455
+Closed Long: Sold 616.1697 ETH at 2425.13573658, Closing Value: 1494295.16 USDC, Interest: 14939.88 USDC, Pool Loss: 0.00 USDC, User Gross Profit: 351.04 USDC, User Net Profit: -14588.84 USDC
+----------------------------
+--------------460--------------
+Processing trade: Open Short 80.2794 ETH at 2362.73998261
+----------------------------
+--------------461--------------
+Processing trade: Open Short 0.0168 ETH at 2362.5
+----------------------------
+--------------462--------------
+Processing trade: Open Short 0.0042 ETH at 2361.8
+----------------------------
+--------------463--------------
+Processing trade: Open Short 0.0042 ETH at 2361.8
+----------------------------
+--------------464--------------
+Processing trade: Close Short 25.2074 ETH at 2385.1
+----------------------------
+--------------465--------------
+Processing trade: Close Short 2.9654 ETH at 2385.1
+----------------------------
+--------------466--------------
+Processing trade: Close Short 2.964 ETH at 2385.1
+----------------------------
+--------------467--------------
+Processing trade: Close Short 10 ETH at 2385.1
+----------------------------
+--------------468--------------
+Processing trade: Close Short 13.6129 ETH at 2385.1
+----------------------------
+--------------469--------------
+Processing trade: Close Short 2.3627 ETH at 2385.1
+----------------------------
+--------------470--------------
+Processing trade: Close Short 12.8958 ETH at 2385.1
+----------------------------
+--------------471--------------
+Processing trade: Close Short 2.2659 ETH at 2385.1
+----------------------------
+--------------472--------------
+Processing trade: Close Short 8.0305 ETH at 2384.11559181
+----------------------------
+Notionals:  [
+   12.5851,  40.7616,  20.3805,  28.2944,  35.7838,   43.842,
+   56.6204,  65.2798,  52.5014,  71.6057,  52.5014,  66.4272,
+   66.4308,  79.8645,  79.8917,  88.6418,  88.6478,  89.1278,
+  189.1278, 189.5267, 217.8661,  52.5014,   67.839,  76.6079,
+     83.68,   115.29,        0,  62.7286,        0,       60,
+   46.7628,  39.9482,  33.1916,  33.1567,  14.0531,   0.0009,
+         0,   0.0286,        0, 104.8171, 109.3171, 113.8171,
+  120.6254,  161.298, 120.6254,  48.3837,   0.0001,        0,
+  124.2818, 128.8465, -98.4065, -13.4283, -15.7356, -15.7391,
+  -15.7537, -15.7572, -15.7844, -15.7879, -15.7914, -19.2223,
+  -19.2567, -19.2602, -22.1432, -38.3825, -47.8825,  -47.886,
+  -47.8872, -60.8617, -82.2453, -98.4065,  52.9252, -98.4065,
+  109.4406, 109.4215,  58.4522,  27.3191,  15.3934,  11.9754,
+  -18.6932,  -95.666, -98.4065, 205.6069, 205.0327,  204.915,
+  197.3808, 189.2354,  180.087, 174.0448, 171.3085, 158.9257,
+  152.9579, 146.6539, 138.0247, 136.5183,  134.646, 134.6406,
+   100.295,  65.9911,  64.6326,  62.9729,
+  ... 183 more items
+] 283
+
+
+Backtesting results for ETH:
+Initial Pool Balance: 100000000.00 USDC
+Final Pool Balance: 100099369.29 USDC
+Total Interest Earned by Pool: 174400.59 USDC
+Total Loss Borne by Pool: 74298.11 USDC
+Overall Profit: 99369.29 USDC
+
+
+Total User Gross Profit: 29854.59 USDC
+Total Interest paid by user: 174400.59 USDC
+Total User Net Profit: -144546.00 USDC
